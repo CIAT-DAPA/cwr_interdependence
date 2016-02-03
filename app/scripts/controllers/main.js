@@ -9,7 +9,7 @@
  */
 angular.module('cwrInterdependenceApp')
   .controller('MainCtrl', function ($scope) {
-     var datafile = 'data/json/interdependece_calories.json';
+     var datafile = 'data/json/all_interdependences.json';
       var aLittleBit = Math.PI / 100000;
 
       d3.json(datafile, function(data) {

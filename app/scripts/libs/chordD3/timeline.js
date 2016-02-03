@@ -9,7 +9,7 @@
 // Timeline: year selector
 (function (scope) {
     scope.timeline = function (diagram, config) {
-        var years = Object.keys(diagram.data.matrix).map(function (y) { return parseInt(y); });
+        var years = Object.keys(diagram.data.matrix).map(function (y) { return y; });
 
         config = config || {};
         config.element = config.element || 'body';
