@@ -15,7 +15,6 @@
         config.element = config.element || 'body';
         config.now = config.now || years[0];
         config.incr = config.incr || 1; // year span for buttons
-        //config.incr = 1; // year span for buttons
 
         var form = d3.select(config.element).append('form');
 
@@ -24,28 +23,36 @@
 
         var span = year.enter().append('span')
             .classed('year', true);
+        
         span.append('input')
             .attr({
                 name: 'year',
-                type: 'radio',
+                type: 'button',
+                class: 'btn btn-default timeline-button',
                 id: function (d) { return 'year-' + d; },
                 value: function (d) { return d; },
-                checked: function (d) { return d === config.now || null; }
+                checked: function (d) {
+                    var control='#year-' + d;
+                    year.select(control).attr('class',d === config.now ? 'btn btn-success timeline-button':'btn btn-default timeline-button'); 
+                    return d === config.now || null; }
             })
             .on('click', function (d) {
                 var y = d;
                 year.selectAll('input').attr('checked', function (d) {
+                    var control='#year-' + d;
+                    year.select(control).attr('class', y === d ? 'btn btn-success timeline-button':'btn btn-default timeline-button');
+                    
                     return y === d || null;
                 });
                 diagram.draw(d);
             });
 
-        span.append('label')
+        /*span.append('label')
             .attr('for', function (d) { return 'year-' + d; })
-            .text(function (d) { return "" + d + (config.incr === 1 ? "" : "-" + (d + config.incr)); });
+            .text(function (d) { return "" + d + (config.incr === 1 ? "" : "-" + (d + config.incr)); });*/
 
         // keyboard control
-        d3.select(document.body).on('keypress', function () {
+        /*d3.select(document.body).on('keypress', function () {
             var idx = d3.event.which - 49;
             var y = years[idx];
             if (y) {
@@ -55,6 +62,6 @@
                     }
                 });
             }
-        });
+        });*/
     };
 })(window.Globalmigration || (window.Globalmigration = {}));

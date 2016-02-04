@@ -48,7 +48,9 @@
 
         config.maxRegionsOpen = config.maxRegionsOpen || 2;
         config.infoPopupDelay = config.infoPopupDelay || 300;
-
+        
+        // Manage subgroup
+        config.openSubgroup = config.openSubgroup || 'open';
 
         var colors = d3.scale.category10().domain(data.regions);
         if (config.layout.colors) {
@@ -461,16 +463,23 @@
             groupPath.exit().remove();
 
             // open regions
-            groupPath
-                .filter(function (d) {
-                    return d.id === d.region;
-                })
-                .on('click', function (d) {
-                    if (countries.length + 1 > config.maxRegionsOpen) {
-                        countries.shift();
-                    }
-                    draw(year, countries.concat(d.id));
-                });
+            if (config.openSubgroup === 'open') 
+                groupPath
+                    .filter(function (d) {
+                        return d.id === d.region;
+                    })
+                    .on('click', function (d) {
+                        if (countries.length + 1 > config.maxRegionsOpen) {
+                            countries.shift();
+                        }
+                        draw(year, countries.concat(d.id));
+                    });
+            else
+                groupPath
+                    .filter(function (d) {
+                        return d.id === d.region;
+                    })
+            
 
             // close regions
             groupPath

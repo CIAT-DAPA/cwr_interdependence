@@ -17,13 +17,17 @@ body {
   width: auto;
 }
 
+.chord_workspace{
+    width: 70%;
+    text-align: center;
+}
 
 
 /* ---------------------------------------------------------
    SVG styles
    ---------------------------------------------------------*/
 svg {
-  font-size: 15px;
+  font-size: 14px;
   max-width: 100%;
   vector-effect: non-scaling-stroke;
 }
@@ -77,4 +81,12 @@ text.region {
 }
 .chord:hover {
   opacity: 1;
+}
+
+/* ---------------------------------------------------------
+   Timeline styles
+   ---------------------------------------------------------*/
+.timeline-button{
+    margin: 5px;
+    text-align: center;
 }
