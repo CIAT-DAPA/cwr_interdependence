@@ -10,9 +10,12 @@
 (function (scope) {
     var π = Math.PI;
 
-    scope.chart = function (data, config) {
+    scope.chart = function (data, config, popup) {
+        //popup 
+        popup = popup || 'open';
+        
         data = data || { regions: [], names: [], matrix: [] };
-
+        
         config = config || {};
         config.element = config.element || 'body';
 
@@ -22,7 +25,9 @@
         config.width = config.width || 1100;
         config.height = config.height || 1100;
         config.margin = config.margin || 125;
-        config.outerRadius = config.outerRadius || (Math.min(config.width, config.height) / 2 - config.margin);
+        //change value for better resolution
+        //config.outerRadius = config.outerRadius || (Math.min(config.width, config.height) / 2 - config.margin);        
+        config.outerRadius = config.outerRadius || (Math.min(config.width, config.height) / 2 - (config.margin/2));
         config.arcWidth = config.arcWidth || 24;
         config.innerRadius = config.innerRadius || (config.outerRadius - config.arcWidth);
         config.arcPadding = config.arcPadding || 0.005;
@@ -265,6 +270,13 @@
                 info
                     .transition()
                     .attr('opacity', 1);
+               
+                //Popup
+                
+                if(popup=='open'){                    
+                    POPUP.tools.print_title(data.names[d.id]);    
+                }
+                
             }, config.infoPopupDelay);
         }
 
@@ -309,6 +321,16 @@
                         width: tbbox.width + 12,
                         height: tbbox.height + 10
                     });
+                
+                //Popup
+                
+                if(popup=='open'){        
+                    var html = '<p>' +  ' → ' + data.names[d.target.id] + ': ' + formatNumber(d.source.value) + '</p>';
+                                
+                    POPUP.tools.print_title(data.names[d.source.id]);    
+                    POPUP.tools.print_desc(html);
+                }
+                
             }, config.infoPopupDelay);
         }
 
