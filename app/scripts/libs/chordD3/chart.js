@@ -273,7 +273,8 @@
                
                 //Popup
                 
-                if(popup=='open'){                    
+                if(popup=='open'){      
+                    POPUP.tools.clear();              
                     POPUP.tools.print_title(data.names[d.id]);    
                 }
                 
@@ -326,7 +327,7 @@
                 
                 if(popup=='open'){        
                     var html = '<p>' +  ' → ' + data.names[d.target.id] + ': ' + formatNumber(d.source.value) + '</p>';
-                                
+                    POPUP.tools.clear();
                     POPUP.tools.print_title(data.names[d.source.id]);    
                     POPUP.tools.print_desc(html);
                 }
