@@ -7,6 +7,7 @@
 
 var POPUP = POPUP || {};
 
+// General vars to config the popup
 POPUP.config = {
     element : 'body',
     content : {        
@@ -17,7 +18,9 @@ POPUP.config = {
     }
 };
 
+
 POPUP.tools = {
+    // Funtion to initialize the container for the popup
     init: function(){
         // Title
         POPUP.config.content.title_row = d3.select(POPUP.config.element).append('div')
@@ -31,12 +34,15 @@ POPUP.tools = {
         POPUP.config.content.desc_content = POPUP.config.content.desc_row.append('div')
             .attr({ class:'.col-md-6 .col-md-offset-3' });
     },
+    // Print a title in the popup
     print_title : function(text){
         POPUP.config.content.title_content.html('<h1>' + text + '</h1>');
     },
+    // Print a description in the popup
     print_desc : function(text){
         POPUP.config.content.desc_content.html(text);
     },
+    // Clear all content in the popup
     clear : function (){
         POPUP.config.content.title_content.html('');
         POPUP.config.content.desc_content.html('');
