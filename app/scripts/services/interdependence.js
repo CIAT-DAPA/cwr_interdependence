@@ -20,11 +20,10 @@ angular.module('cwrInterdependenceApp')
     }
     
     this.draw = function(){
-        console.log(this._config);
         d3.json(this._source, function (data) {
             
-            POPUP.config.element = '#popup';
-            POPUP.tools.init();
+            CircosPopup.config.element = '#popup';
+            CircosPopup.tools.init();
             
             var chart = Globalmigration.chart(data, {
                 element: '#diagram',

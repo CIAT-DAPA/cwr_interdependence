@@ -274,8 +274,8 @@
                 //Popup
                 
                 if(popup=='open'){      
-                    POPUP.tools.clear();              
-                    POPUP.tools.print_title(data.names[d.id]);    
+                    CircosPopup.tools.clear();              
+                    CircosPopup.tools.print_title(data.names[d.id]);    
                 }
                 
             }, config.infoPopupDelay);
@@ -327,9 +327,9 @@
                 
                 if(popup=='open'){        
                     var html = '<p>' +  ' → ' + data.names[d.target.id] + ': ' + formatNumber(d.source.value) + '</p>';
-                    POPUP.tools.clear();
-                    POPUP.tools.print_title(data.names[d.source.id]);    
-                    POPUP.tools.print_desc(html);
+                    CircosPopup.tools.clear();
+                    CircosPopup.tools.print_title(data.names[d.source.id]);    
+                    CircosPopup.tools.print_desc(html);
                 }
                 
             }, config.infoPopupDelay);
