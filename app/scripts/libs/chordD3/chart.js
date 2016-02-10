@@ -20,6 +20,8 @@
         config.element = config.element || 'body';
 
         config.now = config.now || Object.keys(data.matrix)[0];
+        
+        var currentYear = config.now;
 
         // geometry
         config.width = config.width || 1100;
@@ -58,6 +60,7 @@
         config.openSubgroup = config.openSubgroup || 'open';
 
         var colors = d3.scale.category10().domain(data.regions);
+                
         if (config.layout.colors) {
             colors.range(config.layout.colors);
         }
@@ -325,10 +328,24 @@
                 
                 //Popup
                 
-                if(popup=='open'){        
-                    var html = '<p>' +  ' → ' + data.names[d.target.id] + ': ' + formatNumber(d.source.value) + '</p>';
+                if(popup=='open'){
+                    var title = '<h2>Source: ' + data.names[d.source.id] + '</h2>' + 
+                                '<h2>Target: ' + data.names[d.target.id] + '</h2>' + 
+                                '<h2>Total: ' +  formatNumber(d.source.value) + '</h2>';
+                                
+                    var products= data.help[currentYear][d.source.id][d.target.id];     
+                    var html = '<table class="table table-hover">'+
+                                '<tr><th>Product</th><th>Name</th><th>Value</th></tr>';
+                    for(var i=0;i<products.values.length;i++)
+                        html += '<tr>' +
+                                    '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
+                                    '<td>' + data.labels[products.positions[i]] + '</td>' +
+                                    '<td>' + products.values[i] + '</td>' +
+                                '</tr>';
+                    html += '</table>';
+                    
                     CircosPopup.tools.clear();
-                    CircosPopup.tools.print_title(data.names[d.source.id]);    
+                    CircosPopup.tools.print_title(title);    
                     CircosPopup.tools.print_desc(html);
                 }
                 
@@ -442,6 +459,7 @@
         // finally draw the diagram
         function draw(year, countries) {
             year = year || Object.keys(data.matrix)[0];
+            currentYear = year;
             countries = countries || previous.countries;
             previous.countries = countries;
             var ranges = countries.map(getCountryRange);

@@ -9,7 +9,8 @@ var CircosDescription = CircosDescription || {};
 
 // General vars to config the popup
 CircosDescription.config = {
-    element : 'body',
+    element_title : '#title',
+    element_brief : '#brief',
     content : {        
         title_row : null,
         title_content : null,

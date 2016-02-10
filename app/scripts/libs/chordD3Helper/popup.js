@@ -36,7 +36,7 @@ CircosPopup.tools = {
     },
     // Print a title in the popup
     print_title : function(text){
-        CircosPopup.config.content.title_content.html('<h1>' + text + '</h1>');
+        CircosPopup.config.content.title_content.html(text);
     },
     // Print a description in the popup
     print_desc : function(text){
