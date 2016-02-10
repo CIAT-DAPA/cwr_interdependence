@@ -10,9 +10,9 @@
 (function (scope) {
     var π = Math.PI;
 
-    scope.chart = function (data, config, popup) {
-        //popup 
-        popup = popup || 'open';
+    scope.chart = function (data, config, helper) {
+        // helper
+        helper.popup = helper.popup || 'open';
         
         data = data || { regions: [], names: [], matrix: [] };
         
@@ -274,11 +274,23 @@
                     .transition()
                     .attr('opacity', 1);
                
-                //Popup
+                // helper.popup
                 
-                if(popup=='open'){      
-                    CircosPopup.tools.clear();              
-                    CircosPopup.tools.print_title(data.names[d.id]);    
+                if(helper.popup=='open'){      
+                    CircosPopup.tools.clear();
+                    var title = '<h2>' + data.names[d.id] + '</h2>';
+                    var html = '<p>' + '</p>';
+                    /*for(var i=0;i<products.values.length;i++)
+                        html += '<tr>' +
+                                    '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
+                                    '<td>' + data.labels[products.positions[i]] + '</td>' +
+                                    '<td>' + products.values[i] + '</td>' +
+                                '</tr>';
+                    html += '</table>';*/
+                    
+                    CircosPopup.tools.clear();
+                    CircosPopup.tools.print_title(title);    
+                    CircosPopup.tools.print_desc(html); 
                 }
                 
             }, config.infoPopupDelay);
@@ -326,9 +338,9 @@
                         height: tbbox.height + 10
                     });
                 
-                //Popup
+                // helper.popup
                 
-                if(popup=='open'){
+                if(helper.popup=='open'){
                     var title = '<h2>Source: ' + data.names[d.source.id] + '</h2>' + 
                                 '<h2>Target: ' + data.names[d.target.id] + '</h2>' + 
                                 '<h2>Total: ' +  formatNumber(d.source.value) + '</h2>';
@@ -459,17 +471,24 @@
         // finally draw the diagram
         function draw(year, countries) {
             year = year || Object.keys(data.matrix)[0];
+            
+            // Save the current selection
             currentYear = year;
+            
             countries = countries || previous.countries;
             previous.countries = countries;
             var ranges = countries.map(getCountryRange);
 
             rememberTheGroups();
             rememberTheChords();
-
+            
             layout
                 .year(year)
                 .countries(countries);
+            
+            // Add description to graphic
+            CircosDescription.tools.clear();
+            CircosDescription.tools.print_content(data.description.title,data.description.brief,data.description.content);
 
             // groups
             var group = element.selectAll(".group")

@@ -11,41 +11,21 @@ var CircosDescription = CircosDescription || {};
 CircosDescription.config = {
     element_title : '#title',
     element_brief : '#brief',
-    content : {        
-        title_row : null,
-        title_content : null,
-        desc_row : null,
-        desc_content: null
-    }
+    element_description : '#description'
 };
 
 
 CircosDescription.tools = {
-    // Funtion to initialize the container for the popup
-    init: function(){
-        // Title
-        CircosDescription.config.content.title_row = d3.select(CircosDescription.config.element).append('div')
-            .classed('row', true);
-        CircosDescription.config.content.title_content = POPUP.config.content.title_row.append('div')
-            .attr({ class:'.col-md-6 .col-md-offset-3' });
-        
-        // Description
-        CircosDescription.config.content.desc_row = d3.select(CircosDescription.config.element).append('div')
-            .classed('row', true);
-        CircosDescription.config.content.desc_content = CircosDescription.config.content.desc_row.append('div')
-            .attr({ class:'.col-md-6 .col-md-offset-3' });
+    // Print a title in the description
+    print_content : function(title,brief,description){
+        $(CircosDescription.config.element_title).html('<h1>' + title + '</h1>');
+        $(CircosDescription.config.element_brief).html('<p>' + brief + '</p>');
+        $(CircosDescription.config.element_description).html('<p>' + description + '</p>');
     },
-    // Print a title in the popup
-    print_title : function(text){
-        CircosDescription.config.content.title_content.html('<h1>' + text + '</h1>');
-    },
-    // Print a description in the popup
-    print_desc : function(text){
-        CircosDescription.config.content.desc_content.html(text);
-    },
-    // Clear all content in the popup
+    // Clear all content in the description
     clear : function (){
-        CircosDescription.config.content.title_content.html('');
-        CircosDescription.config.content.desc_content.html('');
+        $(CircosDescription.config.element_title).html('');
+        $(CircosDescription.config.element_brief).html('');
+        $(CircosDescription.config.element_description).html('');
     }
 };
