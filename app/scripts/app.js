@@ -23,6 +23,10 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/map', {
+        templateUrl: 'views/map.html',
+        controller: 'MapCtrl'
+      })
       .when('/interdependence/:type', {
         templateUrl: 'views/interdependence.html',
         controller: 'InterdependenceCtrl'
