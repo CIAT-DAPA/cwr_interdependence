@@ -18,9 +18,9 @@ CircosDescription.config = {
 CircosDescription.tools = {
     // Print a title in the description
     print_content : function(title,brief,description){
-        $(CircosDescription.config.element_title).html('<h1>' + title + '</h1>');
-        $(CircosDescription.config.element_brief).html('<p>' + brief + '</p>');
-        $(CircosDescription.config.element_description).html('<p>' + description + '</p>');
+        $(CircosDescription.config.element_title).html('<h1 class="title-center">' + title + '</h1>');
+        $(CircosDescription.config.element_brief).html('<p class="text-justify">' + brief + '</p>');
+        $(CircosDescription.config.element_description).html('<p class="text-justify">' + description + '</p>');
     },
     // Clear all content in the description
     clear : function (){

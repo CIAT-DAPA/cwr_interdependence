@@ -278,8 +278,8 @@
                 
                 if(helper.popup=='open'){      
                     CircosPopup.tools.clear();
-                    var title = '<h2>' + data.names_description[d.id][0] + '</h2>';
-                    var html = '<p>' + data.names_description[d.id][1].replace('.','.<br /><br />') + '</p>';
+                    var title = '<h2 class="title-center">' + data.names_description[d.id][0] + '</h2>';
+                    var html = '<p class="text-justify">' + data.names_description[d.id][1].replace('.','.<br /><br />') + '</p>';
                     
                     CircosPopup.tools.clear();
                     CircosPopup.tools.print_title(title);    
@@ -334,9 +334,9 @@
                 // helper.popup
                 
                 if(helper.popup=='open'){
-                    var title = '<h2>Source: ' + data.names[d.source.id] + '</h2>' + 
-                                '<h2>Target: ' + data.names[d.target.id] + '</h2>' + 
-                                '<h2>Total: ' +  formatNumber(d.source.value) + '</h2>';
+                    var title = '<h3>Source: ' + data.names_description[d.source.id][0] + '</h3>' + 
+                                '<h3>Target: ' + data.names_description[d.target.id][0] + '</h3>' + 
+                                '<h3>Total: ' +  formatNumber(d.source.value) + '</h3>';
                                 
                     var products= data.help[currentYear][d.source.id][d.target.id];     
                     var html = '<table class="table table-hover">'+
@@ -344,7 +344,7 @@
                     for(var i=0;i<products.values.length;i++)
                         html += '<tr>' +
                                     '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
-                                    '<td>' + data.labels[products.positions[i]] + '</td>' +
+                                    '<td>' + Tools.utils.capitalLetter(data.labels[products.positions[i]].replace('_',' ')) + '</td>' +
                                     '<td>' + products.values[i] + '</td>' +
                                 '</tr>';
                     html += '</table>';

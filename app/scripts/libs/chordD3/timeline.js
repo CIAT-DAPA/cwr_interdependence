@@ -24,13 +24,15 @@
         var span = year.enter().append('span')
             .classed('year', true);
         
+        
+        
         span.append('input')
             .attr({
                 name: 'year',
                 type: 'button',
                 class: 'btn btn-default timeline-button',
                 id: function (d) { return 'year-' + d; },
-                value: function (d) { return d; },
+                value: function (d) { return Tools.utils.capitalLetter(d.replace('_',' ')); },
                 checked: function (d) {
                     var control='#year-' + d;
                     year.select(control).attr('class',d === config.now ? 'btn btn-success timeline-button':'btn btn-default timeline-button'); 
@@ -46,6 +48,8 @@
                 });
                 diagram.draw(d);
             });
+        
+        
 
         /*span.append('label')
             .attr('for', function (d) { return 'year-' + d; })
