@@ -29,7 +29,7 @@
         config.margin = config.margin || 125;
         //change value for better resolution
         //config.outerRadius = config.outerRadius || (Math.min(config.width, config.height) / 2 - config.margin);        
-        config.outerRadius = config.outerRadius || (Math.min(config.width, config.height) / 2 - (config.margin/2));
+        config.outerRadius = config.outerRadius || (Math.min(config.width, config.height) / 2 - (config.margin/200));
         config.arcWidth = config.arcWidth || 24;
         config.innerRadius = config.innerRadius || (config.outerRadius - config.arcWidth);
         config.arcPadding = config.arcPadding || 0.005;
@@ -278,15 +278,8 @@
                 
                 if(helper.popup=='open'){      
                     CircosPopup.tools.clear();
-                    var title = '<h2>' + data.names[d.id] + '</h2>';
-                    var html = '<p>' + '</p>';
-                    /*for(var i=0;i<products.values.length;i++)
-                        html += '<tr>' +
-                                    '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
-                                    '<td>' + data.labels[products.positions[i]] + '</td>' +
-                                    '<td>' + products.values[i] + '</td>' +
-                                '</tr>';
-                    html += '</table>';*/
+                    var title = '<h2>' + data.names_description[d.id][0] + '</h2>';
+                    var html = '<p>' + data.names_description[d.id][1].replace('.','.<br /><br />') + '</p>';
                     
                     CircosPopup.tools.clear();
                     CircosPopup.tools.print_title(title);    
@@ -488,7 +481,7 @@
             
             // Add description to graphic
             CircosDescription.tools.clear();
-            CircosDescription.tools.print_content(data.description.title,data.description.brief,data.description.content);
+            CircosDescription.tools.print_content(data.description[0],data.description[1],data.description[2]);
 
             // groups
             var group = element.selectAll(".group")
