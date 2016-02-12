@@ -27,7 +27,7 @@ angular
         templateUrl: 'views/map.html',
         controller: 'MapCtrl'
       })
-      .when('/interdependence/:type', {
+      .when('/interdependence/:type/:precision', {
         templateUrl: 'views/interdependence.html',
         controller: 'InterdependenceCtrl'
       })

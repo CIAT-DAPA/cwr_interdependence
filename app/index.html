@@ -1,11 +1,14 @@
+<!-- Dev by: Steven Sotelo -->
+<!-- http://stevensotelo.me -->
 <!doctype html>
 <html class="no-js">
-
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Interdependence</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
+    <meta name="author" content="Steven Sotelo. http://stevensotelo.me">
+    
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
@@ -14,7 +17,7 @@
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
-    <!-- endbuild -->
+    <!-- endbuild -->    
 </head>
 
 <body ng-app="cwrInterdependenceApp">
@@ -33,24 +36,19 @@
             <div id="navbar" class="navbar-collapse collapse navbar-right">
                 <ul class="nav navbar-nav">
                     <li><a href="#/map">Map</a></li>
-                    <li><a href="#/interdependence/fs_interdependence_complex_text">Diets</a></li>
-                    <li><a href="#/interdependence/prod_interdependence_complex_text">Production</a></li>
+                    <li><a href="#/interdependence/fs_interdependence_complex_text/2">Diets</a></li>
+                    <li><a href="#/interdependence/prod_interdependence_complex_text/0">Production</a></li>
                     <li><a href="#/about">About</a></li>
                 </ul>
             </div>
             <!--/.navbar-collapse -->
         </div>
     </nav>
-
-
-
     <div class="container">
         <div ng-view=""></div>
     </div>
-
     <!-- /container -->
-
-
+    
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
     <script>
         !function(A,n,g,u,l,a,r){A.GoogleAnalyticsObject=l,A[l]=A[l]||function(){
@@ -96,7 +94,6 @@
     <script src="scripts/controllers/interdependence.js"></script>
     <script src="scripts/controllers/map.js"></script>
     <!-- endbuild -->
-
 
 </body>
 

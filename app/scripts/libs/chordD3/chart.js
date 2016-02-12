@@ -17,11 +17,14 @@
         data = data || { regions: [], names: [], matrix: [] };
         
         config = config || {};
-        config.element = config.element || 'body';
+        config.element = config.element || 'body';        
 
         config.now = config.now || Object.keys(data.matrix)[0];
         
         var currentYear = config.now;
+        
+        // Precision
+        config.precision = config.precision || 0;
 
         // geometry
         config.width = config.width || 1100;
@@ -100,7 +103,7 @@
         function formatNumber(nStr, seperator) {
             seperator = seperator || ',';
 
-            nStr = nStr.toFixed(1) + '';
+            nStr = nStr.toFixed(config.precision) + '';
             x = nStr.split('.');
             x1 = x[0];
             x2 = x.length > 1 ? '.' + x[1] : '';
@@ -340,7 +343,7 @@
                                 
                     var products= data.help[currentYear][d.source.id][d.target.id];     
                     var html = '<table class="table table-hover">'+
-                                '<tr><th>Product</th><th>Name</th><th>Value</th></tr>';
+                                '<tr><th>Crop</th><th>Name</th><th>Value</th></tr>';
                     for(var i=0;i<products.values.length;i++)
                         html += '<tr>' +
                                     '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive img-icons" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 

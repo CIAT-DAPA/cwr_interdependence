@@ -11,6 +11,7 @@ angular.module('cwrInterdependenceApp')
   .service('Interdependence', function () {
     // AngularJS will instantiate a singleton by calling "new" on this function
     this._source = '';
+    this._precision = 0;
     
      
     var aLittleBit = Math.PI / 100000;
@@ -19,7 +20,12 @@ angular.module('cwrInterdependenceApp')
         this._source = path;
     }
     
+    this.setPrecision = function(precision){
+        this._precision = precision;
+    }
+    
     this.draw = function(){
+        var precision = this._precision;
         d3.json(this._source, function (data) {
             
             CircosPopup.config.element = '#popup';
@@ -33,6 +39,7 @@ angular.module('cwrInterdependenceApp')
                 height: 800,                
                 margin: 100,
                 arcPadding: 0.01,
+                precision: precision,
                 layout: {
                     alpha: 0,
                     threshold: 1,
