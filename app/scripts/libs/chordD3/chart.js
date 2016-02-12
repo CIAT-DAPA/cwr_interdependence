@@ -100,7 +100,7 @@
         function formatNumber(nStr, seperator) {
             seperator = seperator || ',';
 
-            nStr += '';
+            nStr = nStr.toFixed(1) + '';
             x = nStr.split('.');
             x1 = x[0];
             x2 = x.length > 1 ? '.' + x[1] : '';
@@ -343,9 +343,9 @@
                                 '<tr><th>Product</th><th>Name</th><th>Value</th></tr>';
                     for(var i=0;i<products.values.length;i++)
                         html += '<tr>' +
-                                    '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
-                                    '<td>' + Tools.utils.capitalLetter(data.labels[products.positions[i]].replace('_',' ')) + '</td>' +
-                                    '<td>' + products.values[i] + '</td>' +
+                                    '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive img-icons" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
+                                    '<td>' + Tools.utils.capitalLetter(data.labels[products.positions[i]].replaceAll('_',' ')) + '</td>' +
+                                    '<td class="text-right">' + formatNumber(products.values[i]) + '</td>' +
                                 '</tr>';
                     html += '</table>';
                     
