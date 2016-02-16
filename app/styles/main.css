@@ -111,8 +111,23 @@ text.region {
    Home
    ---------------------------------------------------------*/
 .img-home{
-    background-image: url('images/backgroundjpg');
+    background-image: url('/images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;    
+    opacity: 0.7;
+    z-index: -1;
+    margin-top: -50px;
+    padding-top: 50px;   
+    
+}   
+
+.content-home{
+    z-index: 1; 
+    opacity: 1.5;
+    color: #FFF;
+    
 }
+
 
 /* ---------------------------------------------------------
    Map
