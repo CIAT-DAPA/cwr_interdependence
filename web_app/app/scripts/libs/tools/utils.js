@@ -15,5 +15,4 @@ String.prototype.replaceAll = function(search, replacement) {
 $(".nav a").on("click", function(){
    $(".nav").find(".active").removeClass("active");
    $(this).parent().addClass("active");
-   $(this).css("font-weight","bold");
 });
