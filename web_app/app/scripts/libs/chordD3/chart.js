@@ -338,12 +338,14 @@
                 
                 if(helper.popup=='open'){
                     var title = '<table class="table table-condensed">' +
-                                    '<tr><th>Origin</th><td>' +  data.names_description[d.source.id][0] + '</td></tr>' +
-                                    '<tr><th>Consumer</th><td>' + data.names_description[d.target.id][0] + '</td></tr>' +
+                                    '<tr><th>Origin</th><th>' +  data.names_description[d.source.id][0] + '</th></tr>' +
+                                    '<tr><th>Consumer</th><th>' + data.names_description[d.target.id][0] + '</th></tr>' +
+                                    '<tr><th>Total</th><th>' + formatNumber(d.source.value) + '</th></tr>' +
                                 '</table>';
                                 
                     var products= data.help[currentYear][d.source.id][d.target.id];     
                     var html = '<table class="table table-hover">'+
+                                '<tr><th colspan="3">Top 5 Crops</th></tr>' + 
                                 '<tr><th>Crop</th><th>Name</th><th>Value</th></tr>';
                     for(var i=0;i<products.values.length;i++)
                         html += '<tr>' +
@@ -351,7 +353,6 @@
                                     '<td>' + Tools.utils.capitalLetter(data.labels[products.positions[i]].replaceAll('_',' ')) + '</td>' +
                                     '<td class="text-right">' + formatNumber(products.values[i]) + '</td>' +
                                 '</tr>';
-                    html += '<tr><th></th><th>Total</th><th class="text-right">' + formatNumber(d.source.value) + '</th></tr>';
                     html += '</table>';
                     
                     CircosPopup.tools.clear();
