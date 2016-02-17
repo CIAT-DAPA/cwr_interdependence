@@ -337,13 +337,10 @@
                 // helper.popup
                 
                 if(helper.popup=='open'){
-                    var title = '<table class="table table-bordered">' +
+                    var title = '<table class="table table-condensed">' +
                                     '<tr><th>Origin</th><td>' +  data.names_description[d.source.id][0] + '</td></tr>' +
                                     '<tr><th>Consumer</th><td>' + data.names_description[d.target.id][0] + '</td></tr>' +
                                 '</table>';
-                    /*var title = '<h3>Source: ' + data.names_description[d.source.id][0] + '</h3>' + 
-                                '<h3>Target: ' + data.names_description[d.target.id][0] + '</h3>' + 
-                                '<h3>Total: ' +  formatNumber(d.source.value) + '</h3>';*/
                                 
                     var products= data.help[currentYear][d.source.id][d.target.id];     
                     var html = '<table class="table table-hover">'+

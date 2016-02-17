@@ -1,3 +1,4 @@
+/* Script*/
 var Tools = Tools || {}
 
 Tools.utils = {
@@ -10,3 +11,8 @@ String.prototype.replaceAll = function(search, replacement) {
     var target = this;
     return target.split(search).join(replacement);
 };
+
+$(".nav a").on("click", function(){
+   $(".nav").find(".active").removeClass("active");
+   $(this).parent().addClass("active");
+});
