@@ -1,0 +1,377 @@
+Item_final,Region,food_group,In_FS_study,In_FS_study_exact,Notes
+Coffee,Africa_Central,Stimulants,Y,Y,"counting arabica and canephora. Native to E Africa (Arab, cane); C Af, W Af (cane)"
+Cowpeas,Africa_Central,Pulses,N,N,as determined from contributing species PNAS (Vigna)
+Kola_nuts,Africa_Central,Oilcrops,N,N,GRIN
+Palm oil,Africa_Central,Oilcrops,Y,Y,CK added due to literature. Sp. Native down to Angola
+Rice,Africa_Central,Cereals,Y,Y,As per JW- native to this region and cultivated there
+Sheanuts,Africa_Central,Oilcrops,N,N,GRIN
+Sorghum,Africa_Central,Cereals,Y,Y,As per Palacios
+Bambara_beans,Africa_East,Pulses,Y,N,as determined from contributing species PNAS (Vigna)
+Castor_oil,Africa_East,Oilcrops,N,N,Prota4U
+Coffee,Africa_East,Stimulants,Y,Y,"counting arabica and canephora. Native to E Africa (Arab, cane); C Af, W Af (cane)"
+Cottonseed oil,Africa_East,Oilcrops,Y,Y,As per Palacios (JW- if includeing G. arboreum)
+Cowpeas,Africa_East,Pulses,N,N,as determined from contributing species PNAS (Vigna)
+Melons,Africa_East,Fruits,N,N,GRIN
+Millets,Africa_East,Cereals,Y,Y,As per Palacios
+Olives,Africa_East,Oilcrops,Y,Y,"CK added due to literature, including GRIN taxonomy. JW- Only parts of Sudan."
+Peas,Africa_East,Pulses,Y,Y,As per Palacios. JW- Only Ethiopia.
+Peppermint,Africa_East,Spices,N,N,GRIN for parent aquatica
+Sesame,Africa_East,Oilcrops,Y,Y,As per Palacios
+Sheanuts,Africa_East,Oilcrops,N,N,GRIN
+Sorghum,Africa_East,Cereals,Y,Y,As per Palacios
+Bambara_beans,Africa_Southern,Pulses,Y,N,as determined from contributing species PNAS (Vigna)
+Cottonseed oil,Africa_Southern,Oilcrops,Y,Y,As per Palacios (JW- if includeing G. herbaceum)
+Cowpeas,Africa_Southern,Pulses,N,N,as determined from contributing species PNAS (Vigna)
+Melons,Africa_Southern,Fruits,N,N,GRIN
+Millets,Africa_Southern,Cereals,Y,Y,As per Palacios
+Peppermint,Africa_Southern,Spices,N,N,GRIN for parent aquatica
+Pumpkins & gourds,Africa_Southern,Vegetables,N,N,Lagenaria 
+Sorghum,Africa_Southern,Cereals,Y,Y,As per Palacios
+Watermelons,Africa_Southern,Fruits,N,N,GRIN
+Coffee,Africa_West,Stimulants,Y,Y,"counting arabica and canephora. Native to E Africa (Arab, cane); C Af, W Af (cane)"
+Cowpeas,Africa_West,Pulses,N,N,as determined from contributing species PNAS (Vigna)
+Fonio,Africa_West,Cereals,N,N,
+Kola_nuts,Africa_West,Oilcrops,N,N,GRIN
+Melons,Africa_West,Fruits,N,N,GRIN
+Millets,Africa_West,Cereals,Y,Y,As per Palacios
+Palm oil,Africa_West,Oilcrops,Y,Y,As per Palacios
+Rice,Africa_West,Cereals,Y,Y,As per Palacios
+Sheanuts,Africa_West,Oilcrops,N,N,GRIN
+Sorghum,Africa_West,Cereals,Y,Y,As per Palacios
+Yams,Africa_West,Starchy roots,Y,Y,As per Palacios
+Chillies & peppers,America_Caribbean,Spices,Y,N,as determined from contributing species PNAS (Capsicum)
+Cottonseed oil,America_Caribbean,Oilcrops,Y,Y,CK- as per native areas G. hirstum
+Vanilla,America_Caribbean,Spices,N,N,JW- The species is also native to America_Caribbean and America_South_tropical.
+Yautia,America_Caribbean,Starchy roots,Y,N,as determined from contributing species PNAS (Xanthosoma)
+Avocados,America_Central_and_Mexico,Fruits,N,N,Prota4U
+Beans,America_Central_and_Mexico,Pulses,Y,Y,as determined from contributing species PNAS (Phaseolus)
+Cassava,America_Central_and_Mexico,Starchy roots,Y,Y,"As per Palacios, but refined by CK. Luis Augusto convinced most diversity from Mesoamerica"
+Chillies & peppers,America_Central_and_Mexico,Spices,Y,N,as determined from contributing species PNAS (Capsicum)
+Cocoa beans,America_Central_and_Mexico,Stimulants,Y,Y,CK added as native to Central America as well as tropical S America
+Cottonseed oil,America_Central_and_Mexico,Oilcrops,Y,Y,As per Palacios
+Maize,America_Central_and_Mexico,Cereals,Y,Y,As per Palacios
+Mangoes_mangosteens_guavas,America_Central_and_Mexico,Fruits,N,N,guava
+Palm oil,America_Central_and_Mexico,Oilcrops,Y,Y,"Including oleifera, as hybrids between American and African species contributed significantly to importance of crop"
+Papayas,America_Central_and_Mexico,Fruits,N,N,CK estimate based on CWR
+Pumpkins & gourds,America_Central_and_Mexico,Vegetables,N,N,Cucurbita
+Sweet potatoes,America_Central_and_Mexico,Starchy roots,Y,Y,As per Palacios
+Vanilla,America_Central_and_Mexico,Spices,N,N,
+Yautia,America_Central_and_Mexico,Starchy roots,Y,N,as determined from contributing species PNAS (Xanthosoma)
+Blueberries,America_North,Fruits,N,N,
+Cranberries,America_North,Fruits,N,N,
+Grapes,America_North,Alcoholic beverages,Y,Y,As per JW- important genes/rootstock from this region
+Pumpkins & gourds,America_North,Vegetables,N,N,Cucurbita pepo
+Raspberries,America_North,Fruits,N,N,GRIN for idaeus
+Strawberries,America_North,Fruits,N,N,CK estimate based on CWR
+Sunflower,America_North,Oilcrops,Y,Y,As per Palacios
+Beans,America_South_andean,Pulses,Y,Y,as determined from contributing species PNAS (Phaseolus)
+Lupins,America_South_andean,Pulses,N,N,GRIN for mutabilis
+Potatoes,America_South_andean,Starchy roots,Y,Y,"As per Palacios, but refined by CK"
+Quinoa,America_South_andean,Cereals,N,N,GRIN
+Tomatoes,America_South_andean,Vegetables,Y,Y,"As per Palacios, but refined by CK"
+Mate,America_South_temperate,Stimulants,Y,N,"as determined from contributing species PNAS. Mate native to Paraguay, Uruguay, Brazil, Argentina. "
+Quinoa,America_South_temperate,Cereals,N,N,JW- (http://link.springer.com/article/10.1007/BF02860478#page-1) indicates that America_South_temperate may also need to be included here
+Strawberries,America_South_temperate,Fruits,N,N,CK estimate based on CWR
+Brazil_nuts,America_South_tropical,Nuts,N,N,
+Cashew,America_South_tropical,Nuts,N,N,GRIN
+Cassava,America_South_tropical,Starchy roots,Y,Y,"As per Palacios, but refined by CK."
+Chillies & peppers,America_South_tropical,Spices,Y,N,as determined from contributing species PNAS (Capsicum)
+Cocoa beans,America_South_tropical,Stimulants,Y,Y,"As per Palacios, but refined by CK"
+Cottonseed oil,America_South_tropical,Oilcrops,Y,Y,Added per John Wiersema for G. barbadense
+Groundnut,America_South_tropical,Nuts,Y,Y,"As per Palacios, but refined by CK"
+Mangoes_mangosteens_guavas,America_South_tropical,Fruits,N,N,guava
+Mate,America_South_tropical,Stimulants,Y,N,"as determined from contributing species PNAS. Mate native to Paraguay, Uruguay, Brazil, Argentina. "
+Palm oil,America_South_tropical,Oilcrops,Y,Y,"Including oleifera, as hybrids between American and African species contributed significantly to importance of crop"
+Papayas,America_South_tropical,Fruits,N,N,CK estimate based on CWR
+Pineapples,America_South_tropical,Fruits,Y,Y,"As per Palacios, but refined by CK"
+Pumpkins & gourds,America_South_tropical,Vegetables,N,N,Cucurbita
+Sweet potatoes,America_South_tropical,Starchy roots,Y,Y,"As per Palacios, but refined by CK"
+Vanilla,America_South_tropical,Spices,N,N,JW- The species is also native to America_Caribbean and America_South_tropical.
+Yams,America_South_tropical,Starchy roots,Y,Y,"Added for D. trifida, native to Guyana."
+Yautia,America_South_tropical,Starchy roots,Y,N,as determined from contributing species PNAS (Xanthosoma)
+Alfalfa,Asia_Central,Forages,N,N,CK estimate based on CWR
+Almonds,Asia_Central,Nuts,N,N,CK estimate based on CWR; GRIN; Prota4U
+Apples,Asia_Central,Fruits,Y,Y,As per Palacios
+Apricots,Asia_Central,Fruits,N,N,"Prota4U, GRIN"
+Asparagus,Asia_Central,Vegetables,N,N,GRIN
+Barley,Asia_Central,Cereals,Y,Y,As per Palacios
+Carrots & turnips,Asia_Central,Vegetables,N,N,Mansfield Database for turnips originating in Central Asia 
+Cherries,Asia_Central,Fruits,N,N,JE 
+Chestnut,Asia_Central,Nuts,N,N,GRIN
+Chicory_roots,Asia_Central,Vegetables,N,N,GRIN
+Clover,Asia_Central,Forages,N,N,"GRIN for repens, pratense"
+Currants,Asia_Central,Fruits,N,N,JW- for black currants
+Figs,Asia_Central,Fruits,N,N,"GRIN, PROTA4U"
+Garlic,Asia_Central,Spices,N,N,Prota4U
+Gooseberries,Asia_Central,Fruits,N,N,GRIN for uva-crispa
+Hazelnuts,Asia_Central,Nuts,N,N,for hazelnuts and filberts
+Hempseed,Asia_Central,Oilcrops,N,N,Prota4U
+Hops,Asia_Central,Spices,N,N,GRIN
+Leeks,Asia_Central,Vegetables,N,N,"GRIN, PROTA4U "
+Lettuce,Asia_Central,Vegetables,N,N,CK estimate based on CWR
+Linseed,Asia_Central,Oilcrops,N,N,"GRIN, PROTA4U"
+Onions,Asia_Central,Vegetables,Y,Y,As per Palacios
+Peppermint,Asia_Central,Spices,N,N,GRIN for parent aquatica
+Pistachios,Asia_Central,Nuts,N,N,
+Quinces,Asia_Central,Fruits,N,N,GRIN
+Raspberries,Asia_Central,Fruits,N,N,GRIN for idaeus
+Safflower_seed,Asia_Central,Oilcrops,N,N,CK estimate based on CWR
+Spinach,Asia_Central,Vegetables,N,N,CK estimate based on CWR 
+Triticale,Asia_Central,Cereals,Y,N,As per Palacios for wheat
+Walnuts,Asia_Central,Nuts,N,N,GRIN
+Wheat,Asia_Central,Cereals,Y,Y,As per Palacios
+Anise_badian_fennel_coriander,Asia_East,Spices,N,N,Badian
+Apples,Asia_East,Fruits,Y,Y,As per Palacios. M prunifolia likely involved in origin of domestic apple (JW)
+Apricots,Asia_East,Fruits,N,N,CK estimate based on CWR; GRIN; Prota4U
+Buckwheat,Asia_East,Cereals,N,N,Prota4U; GRIN. Did not include Central Asia as JW found no support for this
+Cabbages,Asia_East,Vegetables,N,N,CK- added as commodity includes 'other Brassicas'
+Cinnamon,Asia_East,Spices,N,N,GRIN for cassia
+Cucumbers,Asia_East,Vegetables,N,N,JW- for Southern China
+Eggplants,Asia_East,Vegetables,N,N,Prota4U
+Grapefruit,Asia_East,Fruits,Y,Y,"CK added as grapefruit is a relatively new hybrid from pomelo (SE Asia) and Orange (E Asia), JW- Although this hybrid likely originated from introduced material in Caribbean."
+Grapes,Asia_East,Alcoholic beverages,Y,Y,As per JW- important genes/rootstock from this region
+Hops,Asia_East,Spices,N,N,GRIN
+Kiwi,Asia_East,Fruits,N,N,
+Lemons & limes,Asia_East,Fruits,Y,Y,from literature of origins of cultivation. Native areas not listed in GRIN taxonomy
+Melons,Asia_East,Fruits,N,N,GRIN
+Millets,Asia_East,Cereals,Y,Y,As per Palacios
+Oranges,Asia_East,Fruits,Y,N,As per Palacios
+Peaches & nectarines,Asia_East,Fruits,N,N,CK estimate based on CWR
+Pears,Asia_East,Fruits,N,N,"CK estimate based on CWR (Asian pears, Pyrus pyrifolia)"
+Persimmons,Asia_East,Fruits,N,N,
+Plums,Asia_East,Fruits,N,N,CK estimate based on CWR. JW-  The native distribution of Prunus salicina (Japanese plum)
+Raspberries,Asia_East,Fruits,N,N,GRIN for idaeus
+Rice,Asia_East,Cereals,Y,Y,As per Palacios
+Soybean,Asia_East,Oilcrops,Y,Y,As per Palacios
+Tangerines_mandarins,Asia_East,Fruits,Y,N,As per Palacios
+Tea,Asia_East,Stimulants,Y,N,as determined from contributing species PNAS.
+Areca_nuts,Asia_South,Oilcrops,N,N,Prota4U
+Bananas & plantains,Asia_South,Fruits,Y,Y,As per Palacios
+Castor_oil,Asia_South,Oilcrops,N,N,Prota4U
+Chickpeas,Asia_South,Pulses,Y,N,"as determined from contributing species PNAS (Cajanus, Lens, Cicer)"
+Chicory_roots,Asia_South,Vegetables,N,N,GRIN
+Cinnamon,Asia_South,Spices,N,N,Prota4U for verum
+Clover,Asia_South,Forages,N,N,"GRIN for repens, pratense"
+Coconuts,Asia_South,Oilcrops,Y,Y,Added as suggested by JE
+Cucumbers,Asia_South,Vegetables,N,N,CK estimate based on CWR
+Dates,Asia_South,Fruits,Y,Y,As per JW- cultivated in India in ancient times
+Eggplants,Asia_South,Vegetables,N,N,Prota4U
+Figs,Asia_South,Fruits,N,N,"GRIN, PROTA4U"
+Ginger,Asia_South,Spices,N,N,Prota4U
+Hempseed,Asia_South,Oilcrops,N,N,Prota4U
+Lemons & limes,Asia_South,Fruits,Y,Y,from literature of origins of cultivation. Native areas not listed in GRIN taxonomy
+Lentils,Asia_South,Pulses,Y,N,"as determined from contributing species PNAS (Cajanus, Lens, Cicer)"
+Mangoes_mangosteens_guavas,Asia_South,Fruits,N,N,Mango
+Melons,Asia_South,Fruits,N,N,GRIN
+Millets,Asia_South,Cereals,Y,Y,As per Palacios
+Nutmeg_mace_cardamoms,Asia_South,Spices,N,N,Cardamom
+Okra,Asia_South,Vegetables,N,N,origin uncertain; Prota4U
+Pepper,Asia_South,Spices,Y,Y,Piper nigrum. Native to S Asia (India)
+Pigeonpeas,Asia_South,Pulses,Y,N,"as determined from contributing species PNAS (Cajanus, Lens, Cicer)"
+Rice,Asia_South,Cereals,Y,Y,As per Palacios
+Sesame,Asia_South,Oilcrops,Y,Y,As per Palacios
+Sugarcane,Asia_South,Sugarcrops,Y,N,As per Palacios
+Taro,Asia_South,Starchy roots,Y,N,as determined from contributing species PNAS (Colocasia)
+Tea,Asia_South,Stimulants,Y,N,as determined from contributing species PNAS.
+Walnuts,Asia_South,Nuts,N,N,GRIN
+Yams,Asia_South,Starchy roots,Y,Y,As per Palacios
+Anise_badian_fennel_coriander,Asia_Southeast,Spices,N,N,Badian
+Areca_nuts,Asia_Southeast,Oilcrops,N,N,Prota4U
+Bananas & plantains,Asia_Southeast,Fruits,Y,Y,As per Palacios
+Cinnamon,Asia_Southeast,Spices,N,N,Prota4U for verum
+Cloves,Asia_Southeast,Spices,Y,Y,"native to Indonesia. Major production in SE Asia, S Asia, S Africa, E Africa"
+Coconuts,Asia_Southeast,Oilcrops,Y,Y,As per Palacios
+Cucumbers,Asia_Southeast,Vegetables,N,N,CK estimate based on CWR
+Eggplants,Asia_Southeast,Vegetables,N,N,Prota4U
+Grapefruit,Asia_Southeast,Fruits,Y,Y,As per Palacios
+Mangoes_mangosteens_guavas,Asia_Southeast,Fruits,N,N,"Mango, mangosteen"
+Melons,Asia_Southeast,Fruits,N,N,GRIN
+Millets,Asia_Southeast,Cereals,Y,Y,As per Palacios
+Nutmeg_mace_cardamoms,Asia_Southeast,Spices,N,N,"Nutmeg, mace"
+Okra,Asia_Southeast,Vegetables,N,N,origin uncertain; Prota4U
+Pears,Asia_Southeast,Fruits,N,N,"CK estimate based on CWR (Asian pears, Pyrus pyrifolia)"
+Plums,Asia_Southeast,Fruits,N,N,JW-  The native distribution of Prunus salicina (Japanese plum) also touches Asia_Southeast
+Rice,Asia_Southeast,Cereals,Y,Y,As per Palacios
+Sugarcane,Asia_Southeast,Sugarcrops,Y,N,As per Palacios
+Taro,Asia_Southeast,Starchy roots,Y,N,as determined from contributing species PNAS (Colocasia)
+Tea,Asia_Southeast,Stimulants,Y,N,as determined from contributing species PNAS.
+Yams,Asia_Southeast,Starchy roots,Y,Y,As per Palacios
+Alfalfa,Asia_West,Forages,N,N,CK estimate based on CWR
+Almonds,Asia_West,Nuts,N,N,CK estimate based on CWR; GRIN; Prota4U
+Anise_badian_fennel_coriander,Asia_West,Spices,N,N,"Anise, coriander"
+Asparagus,Asia_West,Vegetables,N,N,GRIN
+Barley,Asia_West,Cereals,Y,Y,As per Palacios
+Carrots & turnips,Asia_West,Vegetables,N,N,Mansfield Database for carrots originating in Afghanistan
+Castor_oil,Asia_West,Oilcrops,N,N,Prota4U
+Cherries,Asia_West,Fruits,N,N,JW- Both sweet cherries (Prunus avium) and sour cherries (Prunus cerasus) it seems to be Asia_West or Europe_South_east.
+Chestnut,Asia_West,Nuts,N,N,GRIN
+Chickpeas,Asia_West,Pulses,Y,N,"as determined from contributing species PNAS (Lens, Cicer, Vicia)"
+Chicory_roots,Asia_West,Vegetables,N,N,GRIN
+Clover,Asia_West,Forages,N,N,"GRIN for repens, pratense"
+Dates,Asia_West,Fruits,Y,Y,"CK added, corrected probable error in Palacios. JW- considered as probably indigenous to the Persian Gulf region."
+Faba_beans,Asia_West,Pulses,N,N,Prota4U
+Figs,Asia_West,Fruits,N,N,"GRIN, PROTA4U"
+Gooseberries,Asia_West,Fruits,N,N,GRIN for uva-crispa
+Grapes,Asia_West,Alcoholic beverages,Y,Y,As per Palacios
+Hazelnuts,Asia_West,Nuts,N,N,for hazelnuts and filberts
+Hempseed,Asia_West,Oilcrops,N,N,Prota4U
+Hops,Asia_West,Spices,N,N,GRIN
+Leeks,Asia_West,Vegetables,N,N,"GRIN, PROTA4U. JW- Probably Asia_Central and northern Europe were not centers of domestication of this crop."
+Lentils,Asia_West,Pulses,Y,N,"as determined from contributing species PNAS (Lens, Cicer, Vicia)"
+Lettuce,Asia_West,Vegetables,N,N,CK estimate based on CWR
+Linseed,Asia_West,Oilcrops,N,N,"GRIN, PROTA4U"
+Melons,Asia_West,Fruits,N,N,GRIN
+Olives,Asia_West,Oilcrops,Y,Y,"CK added due to literature, including GRIN taxonomy"
+Onions,Asia_West,Vegetables,Y,Y,As per JW- close relatives in N Iran
+Pears,Asia_West,Fruits,N,N,"JW- The European pear, P. communis, probably originated in Asia_West (including the Caucasus) and Europe_East_south."
+Peas,Asia_West,Pulses,Y,Y,As per Palacios
+Peppermint,Asia_West,Spices,N,N,"GRIN for parent aquatica, spicata"
+Pistachios,Asia_West,Nuts,N,N,
+Plums,Asia_West,Fruits,N,N,"JW-  Prunus domestica (common or European plum),may have its origins in Asia_West, and as it is thought to be of hybrid origin involving P. cerasifera and possibly P. spinosa, their distributions overlap also in Europe_East_south."
+Quinces,Asia_West,Fruits,N,N,GRIN
+Raspberries,Asia_West,Fruits,N,N,GRIN for idaeus
+Rye,Asia_West,Cereals,Y,Y,As per Palacios
+Safflower_seed,Asia_West,Oilcrops,N,N,CK estimate based on CWR
+Sesame,Asia_West,Oilcrops,Y,Y,As per JW- spread to this region in ancient times from India
+Spinach,Asia_West,Vegetables,N,N,JW- It's suggested origin in Iran (PROTA4U & Mansfeld) indicate that Asia_West should also be included.
+Triticale,Asia_West,Cereals,Y,N,As per Palacios for wheat and Rye
+Walnuts,Asia_West,Nuts,N,N,GRIN
+Wheat,Asia_West,Cereals,Y,Y,As per Palacios
+Apples,Europe_Eastern_north,Fruits,Y,Y,"As per Palacios, but refined by CK"
+Asparagus,Europe_Eastern_north,Vegetables,N,N,GRIN
+Beet_sugar,Europe_Eastern_north,Sugarcrops,Y,N,"As per Palacios, but refined by CK"
+Chicory_roots,Europe_Eastern_north,Vegetables,N,N,GRIN
+Clover,Europe_Eastern_north,Forages,N,N,"GRIN for repens, pratense"
+Currants,Europe_Eastern_north,Fruits,N,N,
+Gooseberries,Europe_Eastern_north,Fruits,N,N,GRIN for uva-crispa
+Hazelnuts,Europe_Eastern_north,Nuts,N,N,for hazelnuts and filberts. GRIN
+Hops,Europe_Eastern_north,Spices,N,N,GRIN
+Lettuce,Europe_Eastern_north,Vegetables,N,N,CK estimate based on CWR
+Linseed,Europe_Eastern_north,Oilcrops,N,N,"GRIN, PROTA4U"
+Oats,Europe_Eastern_north,Cereals,Y,Y,"As per Palacios, but refined by CK. JW- Species thought to be involved in the domestication of oats occur in northern Europe, which could have been part of its early domestication."
+Peppermint,Europe_Eastern_north,Spices,N,N,GRIN for parent aquatica
+Raspberries,Europe_Eastern_north,Fruits,N,N,GRIN for idaeus
+Anise_badian_fennel_coriander,Europe_Eastern_south,Spices,N,N,"Anise, coriander, fennel"
+Apples,Europe_Eastern_south,Fruits,Y,Y,"As per Palacios, but refined by CK"
+Artichokes,Europe_Eastern_south,Vegetables,N,N,Prota4U
+Asparagus,Europe_Eastern_south,Vegetables,N,N,CK estimate based on CWR; GRIN  
+Beet_sugar,Europe_Eastern_south,Sugarcrops,Y,N,"As per Palacios, but refined by CK"
+Cabbages,Europe_Eastern_south,Vegetables,N,N,CK estimate based on CWR
+Carob,Europe_Eastern_south,Spices,N,N,GRIN
+Carrots & turnips,Europe_Eastern_south,Vegetables,N,N,CK estimate based on CWR carrot 
+Cherries,Europe_Eastern_south,Fruits,N,N,JW- Both sweet cherries (Prunus avium) and sour cherries (Prunus cerasus) it seems to be Asia_West or Europe_South_east.
+Chestnut,Europe_Eastern_south,Nuts,N,N,GRIN
+Chicory_roots,Europe_Eastern_south,Vegetables,N,N,GRIN
+Clover,Europe_Eastern_south,Forages,N,N,"GRIN for repens, pratense"
+Currants,Europe_Eastern_south,Fruits,N,N,JW- for black currants
+Gooseberries,Europe_Eastern_south,Fruits,N,N,GRIN for uva-crispa
+Hazelnuts,Europe_Eastern_south,Nuts,N,N,for hazelnuts and filberts
+Hops,Europe_Eastern_south,Spices,N,N,GRIN
+Leeks,Europe_Eastern_south,Vegetables,N,N,"GRIN, PROTA4U"
+Lettuce,Europe_Eastern_south,Vegetables,N,N,CK estimate based on CWR
+Linseed,Europe_Eastern_south,Oilcrops,N,N,"GRIN, PROTA4U"
+Lupins,Europe_Eastern_south,Pulses,N,N,"GRIN for albus, angustifolius"
+Mustard_seed,Europe_Eastern_south,Oilcrops,Y,N,"As per Palacios, but refined by CK"
+Olives,Europe_Eastern_south,Oilcrops,Y,Y,"CK added due to literature, including GRIN taxonomy"
+Pears,Europe_Eastern_south,Fruits,N,N,"JW- The European pear, P. communis, probably originated in Asia_West (including the Caucasus) and Europe_East_south."
+Peas,Europe_Eastern_south,Pulses,Y,Y,As per JW- close relatives native to this region
+Peppermint,Europe_Eastern_south,Spices,N,N,"GRIN for parent aquatica, spicata"
+Plums,Europe_Eastern_south,Fruits,N,N,"JW-  Prunus domestica (common or European plum),may have its origins in Asia_West, and as it is thought to be of hybrid origin involving P. cerasifera and possibly P. spinosa, their distributions overlap also in Europe_East_south."
+Poppy,Europe_Eastern_south,Spices,N,N,GRIN
+Rapeseed,Europe_Eastern_south,Oilcrops,Y,N,"As per Palacios, but refined by CK"
+Raspberries,Europe_Eastern_south,Fruits,N,N,GRIN for idaeus
+Safflower_seed,Europe_Eastern_south,Oilcrops,N,N,CK estimate based on CWR
+Vetches,Europe_Eastern_south,Forages,N,N,CK estimate based on CWR
+Walnuts,Europe_Eastern_south,Nuts,N,N,GRIN
+Apples,Europe_Western_north,Fruits,Y,Y,"As per Palacios, but refined by CK"
+Asparagus,Europe_Western_north,Vegetables,N,N,GRIN
+Beet_sugar,Europe_Western_north,Sugarcrops,Y,N,"As per Palacios, but refined by CK"
+Chicory_roots,Europe_Western_north,Vegetables,N,N,GRIN
+Clover,Europe_Western_north,Forages,N,N,"GRIN for repens, pratense"
+Currants,Europe_Western_north,Fruits,N,N,
+Gooseberries,Europe_Western_north,Fruits,N,N,GRIN for uva-crispa
+Hazelnuts,Europe_Western_north,Nuts,N,N,for hazelnuts and filberts. GRIN
+Hops,Europe_Western_north,Spices,N,N,GRIN
+Lettuce,Europe_Western_north,Vegetables,N,N,CK estimate based on CWR
+Linseed,Europe_Western_north,Oilcrops,N,N,"GRIN, PROTA4U"
+Oats,Europe_Western_north,Cereals,Y,Y,"As per Palacios, but refined by CK. JW- Species thought to be involved in the domestication of oats occur in northern Europe, which could have been part of its early domestication."
+Peppermint,Europe_Western_north,Spices,N,N,GRIN for parent aquatica
+Raspberries,Europe_Western_north,Fruits,N,N,GRIN for idaeus
+Anise_badian_fennel_coriander,Europe_Western_south,Spices,N,N,"Anise, coriander, fennel"
+Apples,Europe_Western_south,Fruits,Y,Y,"As per Palacios, but refined by CK"
+Artichokes,Europe_Western_south,Vegetables,N,N,Prota4U
+Asparagus,Europe_Western_south,Vegetables,N,N,CK estimate based on CWR; GRIN  
+Beet_sugar,Europe_Western_south,Sugarcrops,Y,N,"As per Palacios, but refined by CK"
+Cabbages,Europe_Western_south,Vegetables,N,N,CK estimate based on CWR
+Carob,Europe_Western_south,Spices,N,N,GRIN
+Carrots & turnips,Europe_Western_south,Vegetables,N,N,CK estimate based on CWR carrot
+Chicory_roots,Europe_Western_south,Vegetables,N,N,GRIN
+Clover,Europe_Western_south,Forages,N,N,"GRIN for repens, pratense"
+Currants,Europe_Western_south,Fruits,N,N,
+Figs,Europe_Western_south,Fruits,N,N,GRIN
+Gooseberries,Europe_Western_south,Fruits,N,N,GRIN for uva-crispa
+Hazelnuts,Europe_Western_south,Nuts,N,N,for hazelnuts and filberts
+Hops,Europe_Western_south,Spices,N,N,GRIN
+Leeks,Europe_Western_south,Vegetables,N,N,"GRIN, PROTA4U"
+Lettuce,Europe_Western_south,Vegetables,N,N,CK estimate based on CWR
+Linseed,Europe_Western_south,Oilcrops,N,N,"GRIN, PROTA4U"
+Lupins,Europe_Western_south,Pulses,N,N,GRIN for angustifolius
+Mustard_seed,Europe_Western_south,Oilcrops,Y,N,"As per Palacios, but refined by CK"
+Olives,Europe_Western_south,Oilcrops,Y,Y,"CK added due to literature, including GRIN taxonomy"
+Peas,Europe_Western_south,Pulses,Y,Y,As per JW- close relatives native to this region
+Peppermint,Europe_Western_south,Spices,N,N,GRIN for parent aquatica
+Poppy,Europe_Western_south,Spices,N,N,GRIN
+Rapeseed,Europe_Western_south,Oilcrops,Y,N,"As per Palacios, but refined by CK"
+Raspberries,Europe_Western_south,Fruits,N,N,GRIN for idaeus
+Vetches,Europe_Western_south,Forages,N,N,CK estimate based on CWR
+Anise_badian_fennel_coriander,Mediterranean_SouthandEast,Spices,N,N,"Anise, coriander, fennel"
+Artichokes,Mediterranean_SouthandEast,Vegetables,N,N,Prota4U
+Asparagus,Mediterranean_SouthandEast,Vegetables,N,N,CK estimate based on CWR; GRIN  
+Barley,Mediterranean_SouthandEast,Cereals,Y,Y,As per Palacios
+Beet_sugar,Mediterranean_SouthandEast,Sugarcrops,Y,N,As per Palacios
+Cabbages,Mediterranean_SouthandEast,Vegetables,N,N,CK estimate based on CWR
+Carob,Mediterranean_SouthandEast,Spices,N,N,GRIN
+Carrots & turnips,Mediterranean_SouthandEast,Vegetables,N,N,CK estimate based on CWR carrot
+Castor_oil,Mediterranean_SouthandEast,Oilcrops,N,N,Prota4U
+Chestnut,Mediterranean_SouthandEast,Nuts,N,N,GRIN
+Chickpeas,Mediterranean_SouthandEast,Pulses,Y,N,"as determined from contributing species PNAS (Lens, Cicer, Vicia)"
+Chicory_roots,Mediterranean_SouthandEast,Vegetables,N,N,GRIN
+Clover,Mediterranean_SouthandEast,Forages,N,N,"GRIN for repens, pratense"
+Dates,Mediterranean_SouthandEast,Fruits,Y,Y,"As per Palacios. JW- A site of early cultivation of dates, but likely not part of native range of species."
+Figs,Mediterranean_SouthandEast,Fruits,N,N,"GRIN, PROTA4U"
+Gooseberries,Mediterranean_SouthandEast,Fruits,N,N,GRIN for uva-crispa
+Grapes,Mediterranean_SouthandEast,Alcoholic beverages,Y,Y,As per Palacios
+Hops,Mediterranean_SouthandEast,Spices,N,N,GRIN
+Leeks,Mediterranean_SouthandEast,Vegetables,N,N,"GRIN, PROTA4U"
+Lentils,Mediterranean_SouthandEast,Pulses,Y,N,"as determined from contributing species PNAS (Lens, Cicer, Vicia)"
+Lettuce,Mediterranean_SouthandEast,Vegetables,N,N,CK estimate based on CWR
+Linseed,Mediterranean_SouthandEast,Oilcrops,N,N,"GRIN, PROTA4U"
+Lupins,Mediterranean_SouthandEast,Pulses,N,N,GRIN for angustifolius
+Mustard_seed,Mediterranean_SouthandEast,Oilcrops,Y,N,As per Palacios
+Olives,Mediterranean_SouthandEast,Oilcrops,Y,Y,As per Palacios. JW- Macaronesia (Canary Islands & Madeira)- close relatives occur there.
+Peas,Mediterranean_SouthandEast,Pulses,Y,Y,added as suggested by JE
+Peppermint,Mediterranean_SouthandEast,Spices,N,N,GRIN for parent aquatica
+Poppy,Mediterranean_SouthandEast,Spices,N,N,GRIN
+Rapeseed,Mediterranean_SouthandEast,Oilcrops,Y,N,As per Palacios
+Raspberries,Mediterranean_SouthandEast,Fruits,N,N,GRIN for idaeus
+Triticale,Mediterranean_SouthandEast,Cereals,Y,N,added by CK due to presence of early crop wheat and wild relatives in region
+Wheat,Mediterranean_SouthandEast,Cereals,Y,Y,added by CK due to presence of early crop and wild relatives in region
+Berries_nes,Not_Specified,Fruits,N,N,
+Cereals_nes,Not_Specified,Cereals,N,N,
+Fruit_citrus_nes,Not_Specified,Fruits,N,N,
+Fruit_fresh_nes,Not_Specified,Fruits,N,N,
+Fruit_pome_nes,Not_Specified,Fruits,N,N,
+Fruit_stone_nes,Not_Specified,Fruits,N,N,
+Fruit_tropical_fresh_nes,Not_Specified,Fruits,N,N,
+Grain_mixed,Not_Specified,Cereals,N,N,
+Nuts_nes,Not_Specified,Nuts,N,N,
+Oilseeds_nes,Not_Specified,Oilcrops,N,N,
+Pulses_nes,Not_Specified,Pulses,N,N,
+Roots_tubers_nes,Not_Specified,Starchy roots,N,N,
+Spices_nes,Not_Specified,Spices,N,N,
+Tea_nes,Not_Specified,Stimulants,N,N,
+Vegetables_fresh_nes,Not_Specified,Vegetables,N,N,
+Vegetables_leguminous_nes,Not_Specified,Vegetables,N,N,
+Coconuts,Pacific_Region_tropical,Oilcrops,Y,Y,"As per Palacios, but refined by CK"
+Melons,Pacific_Region_tropical,Fruits,N,N,GRIN
+Taro,Pacific_Region_tropical,Starchy roots,Y,N,as suggested by JE for Taro

@@ -1,0 +1,841 @@
+"Region","Region_crops","Element","Y2009","Y2010","Y2011"
+"Africa","Africa_Central","Fat supply quantity (g/capita/day)",13.3895491570287,13.7570201963267,13.5085413757482
+"Africa","Africa_Central","Food supply (kcal/capita/day)",549.002254970839,556.382429433833,560.159447675969
+"Africa","Africa_Central","Food supply quantity (g/capita/day)",148.599083963321,149.729704220218,151.507281092371
+"Africa","Africa_Central","Protein supply quantity (g/capita/day)",13.7444643407078,13.8024183502418,14.0269120841065
+"Africa","Africa_East","Fat supply quantity (g/capita/day)",5.11518744579333,5.03878860854783,5.00758229973407
+"Africa","Africa_East","Food supply (kcal/capita/day)",369.926268537795,368.931918036896,350.913520718638
+"Africa","Africa_East","Food supply quantity (g/capita/day)",120.120898641326,119.838781647227,113.509934011878
+"Africa","Africa_East","Protein supply quantity (g/capita/day)",12.6683478732588,12.6475299606569,12.2467165975786
+"Africa","Africa_Southern","Fat supply quantity (g/capita/day)",4.02764657081625,3.91862582650114,3.82982746561236
+"Africa","Africa_Southern","Food supply (kcal/capita/day)",353.019832835961,352.232480607363,333.293474525255
+"Africa","Africa_Southern","Food supply quantity (g/capita/day)",115.588630629383,115.237719509656,108.736122525784
+"Africa","Africa_Southern","Protein supply quantity (g/capita/day)",12.0019485975641,12.00575334909,11.5876472027802
+"Africa","Africa_West","Fat supply quantity (g/capita/day)",14.696704354921,15.0863803971704,14.6200451824277
+"Africa","Africa_West","Food supply (kcal/capita/day)",754.048043828105,762.371974904306,747.050448144466
+"Africa","Africa_West","Food supply quantity (g/capita/day)",280.182032044336,280.742123628384,276.442980967865
+"Africa","Africa_West","Protein supply quantity (g/capita/day)",17.962513916113,18.061951670756,17.7792731772607
+"Africa","America_Caribbean","Fat supply quantity (g/capita/day)",1.10819844048214,0.979942559448665,1.09649791105792
+"Africa","America_Caribbean","Food supply (kcal/capita/day)",45.0035077247733,43.1583540397831,45.5468473889974
+"Africa","America_Caribbean","Food supply quantity (g/capita/day)",29.826332364187,28.9306746041089,30.0211469970951
+"Africa","America_Caribbean","Protein supply quantity (g/capita/day)",0.586353358823792,0.57225732579739,0.587715624664336
+"Africa","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",16.5990203809934,16.8253726527151,16.8133183675971
+"Africa","America_Central_and_Mexico","Food supply (kcal/capita/day)",784.645106746299,788.687899170686,807.529463803985
+"Africa","America_Central_and_Mexico","Food supply quantity (g/capita/day)",410.285891881594,412.658500897278,428.822638598456
+"Africa","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",14.5332618121072,14.4871750133026,14.7359034381278
+"Africa","America_North","Fat supply quantity (g/capita/day)",2.16399593354134,2.15803193991556,2.06368503966864
+"Africa","America_North","Food supply (kcal/capita/day)",21.2900744090814,21.4588181824762,20.9394422391042
+"Africa","America_North","Food supply quantity (g/capita/day)",5.12541919827618,5.15846141890053,5.46362152875719
+"Africa","America_North","Protein supply quantity (g/capita/day)",0.0247811786261873,0.0333351508159464,0.0366186287158407
+"Africa","America_South_andean","Fat supply quantity (g/capita/day)",0.242656122809229,0.242942901694883,0.250874782563683
+"Africa","America_South_andean","Food supply (kcal/capita/day)",68.9316124492741,69.6798810607549,68.4701091064126
+"Africa","America_South_andean","Food supply quantity (g/capita/day)",69.0317523316209,72.6074930397546,69.8937700953236
+"Africa","America_South_andean","Protein supply quantity (g/capita/day)",3.26729143800217,3.22527571250548,3.18899803532293
+"Africa","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"Africa","America_South_temperate","Food supply (kcal/capita/day)",0.22439067838125,0.242601709838075,0.387225871701137
+"Africa","America_South_temperate","Food supply quantity (g/capita/day)",0.410111780536063,0.52051049782088,1.06120222404327
+"Africa","America_South_temperate","Protein supply quantity (g/capita/day)",0.0476560442287016,0.052051049782088,0.107732496883226
+"Africa","America_South_tropical","Fat supply quantity (g/capita/day)",20.385958449429,20.8563612093254,20.9669859111768
+"Africa","America_South_tropical","Food supply (kcal/capita/day)",547.372593511409,552.676725489866,566.603226455277
+"Africa","America_South_tropical","Food supply quantity (g/capita/day)",394.983325417906,397.582411311396,412.719047456056
+"Africa","America_South_tropical","Protein supply quantity (g/capita/day)",5.88160851500134,5.98225100531198,6.13507266574486
+"Africa","Asia_Central","Fat supply quantity (g/capita/day)",0.909812252169391,0.90434704825796,0.930538499893815
+"Africa","Asia_Central","Food supply (kcal/capita/day)",240.459869547107,235.664065198231,240.874977818834
+"Africa","Asia_Central","Food supply quantity (g/capita/day)",126.405402960131,125.261163229983,130.485339198831
+"Africa","Asia_Central","Protein supply quantity (g/capita/day)",6.74598609960793,6.65450031033901,6.76409245085834
+"Africa","Asia_East","Fat supply quantity (g/capita/day)",4.42231828002159,4.4089266706492,4.07061958984613
+"Africa","Asia_East","Food supply (kcal/capita/day)",366.207400587521,373.488894862453,362.223590881403
+"Africa","Asia_East","Food supply quantity (g/capita/day)",117.298424293634,119.510360942072,117.870431627438
+"Africa","Asia_East","Protein supply quantity (g/capita/day)",7.94701820804526,8.00012369068203,7.95083643713621
+"Africa","Asia_South","Fat supply quantity (g/capita/day)",4.13267906085154,4.18754789885863,4.03192954443039
+"Africa","Asia_South","Food supply (kcal/capita/day)",729.890743859716,740.599866350342,729.844014648113
+"Africa","Asia_South","Food supply quantity (g/capita/day)",376.353304260197,377.419340335261,372.653834422367
+"Africa","Asia_South","Protein supply quantity (g/capita/day)",14.290529351455,14.5282513962468,14.3579646896959
+"Africa","Asia_Southeast","Fat supply quantity (g/capita/day)",2.76093090144111,2.76017674641,2.55212567337305
+"Africa","Asia_Southeast","Food supply (kcal/capita/day)",654.121442412319,663.055571858771,650.560539993437
+"Africa","Asia_Southeast","Food supply quantity (g/capita/day)",354.608954044207,355.103734066434,349.982933206915
+"Africa","Asia_Southeast","Protein supply quantity (g/capita/day)",9.89895153788541,10.0547563563681,9.75779882100927
+"Africa","Asia_West","Fat supply quantity (g/capita/day)",2.34797526821771,2.40012834235641,2.4982659498491
+"Africa","Asia_West","Food supply (kcal/capita/day)",323.315631661563,319.68842614091,327.136131860592
+"Africa","Asia_West","Food supply quantity (g/capita/day)",150.822151949758,149.435641248046,155.335431437337
+"Africa","Asia_West","Protein supply quantity (g/capita/day)",11.4889334633197,11.4473597187189,11.688946672283
+"Africa","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.0158573128137267,0.0266179829164895,0.0266613644290661
+"Africa","Europe_Eastern_north","Food supply (kcal/capita/day)",121.954096302199,125.129116517996,124.935448830179
+"Africa","Europe_Eastern_north","Food supply quantity (g/capita/day)",43.9816222111342,45.331930387685,44.0979327158642
+"Africa","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.0572465215703988,0.0557267431413783,0.0649655253982411
+"Africa","Europe_Eastern_south","Fat supply quantity (g/capita/day)",0.112662860556891,0.0947148566540953,0.186703661955608
+"Africa","Europe_Eastern_south","Food supply (kcal/capita/day)",127.190892325981,129.530855403763,130.140706629773
+"Africa","Europe_Eastern_south","Food supply quantity (g/capita/day)",45.3208815457951,46.4409843012414,45.3502098016289
+"Africa","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.392241527391639,0.341835640916656,0.354707626653278
+"Africa","Europe_Western_north","Fat supply quantity (g/capita/day)",0.0158573128137267,0.0266179829164895,0.0266613644290661
+"Africa","Europe_Western_north","Food supply (kcal/capita/day)",121.954096302199,125.129116517996,124.935448830179
+"Africa","Europe_Western_north","Food supply quantity (g/capita/day)",43.9816222111342,45.331930387685,44.0979327158642
+"Africa","Europe_Western_north","Protein supply quantity (g/capita/day)",0.0572465215703988,0.0557267431413783,0.0649655253982411
+"Africa","Europe_Western_south","Fat supply quantity (g/capita/day)",0.112662860556891,0.0947148566540953,0.186703661955608
+"Africa","Europe_Western_south","Food supply (kcal/capita/day)",127.190892325981,129.530855403763,130.140706629773
+"Africa","Europe_Western_south","Food supply quantity (g/capita/day)",45.3208815457951,46.4409843012414,45.3502098016289
+"Africa","Europe_Western_south","Protein supply quantity (g/capita/day)",0.392241527391639,0.341835640916656,0.354707626653278
+"Africa","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",1.34275453225638,1.34687045459811,1.49681977707352
+"Africa","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",428.050697508121,427.113584587168,433.815609253738
+"Africa","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",176.692892228985,176.045800455352,179.391529551125
+"Africa","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",11.1156288726814,11.0529010082523,11.2979216117973
+"Africa","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",0.830240674882144,0.81297028676515,0.820550917773881
+"Africa","Pacific_Region_tropical","Food supply (kcal/capita/day)",40.8721070344757,40.0670492852074,41.233249374533
+"Africa","Pacific_Region_tropical","Food supply quantity (g/capita/day)",30.944425287722,30.3700814658024,31.2790686728274
+"Africa","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.455666197998511,0.447580166473146,0.471838842551302
+"Central Asia","Africa_Central","Fat supply quantity (g/capita/day)",0.209000686679709,0.139972571945072,0.137183475306016
+"Central Asia","Africa_Central","Food supply (kcal/capita/day)",58.6523457237993,59.115346626904,58.1340366056151
+"Central Asia","Africa_Central","Food supply quantity (g/capita/day)",17.6125960379876,17.4193922300256,17.5829151063755
+"Central Asia","Africa_Central","Protein supply quantity (g/capita/day)",1.1444048559916,1.12953660423205,1.13635809849428
+"Central Asia","Africa_East","Fat supply quantity (g/capita/day)",11.115597994377,11.1030305602218,10.7312776307184
+"Central Asia","Africa_East","Food supply (kcal/capita/day)",101.774807924025,101.220192254794,98.7430758499197
+"Central Asia","Africa_East","Food supply quantity (g/capita/day)",13.9589546920954,13.156480352031,13.5567049184573
+"Central Asia","Africa_East","Protein supply quantity (g/capita/day)",0.27663604679787,0.232399692393106,0.299255592173601
+"Central Asia","Africa_Southern","Fat supply quantity (g/capita/day)",10.7484990218053,10.7544356283594,10.3721456108197
+"Central Asia","Africa_Southern","Food supply (kcal/capita/day)",95.6993120246686,95.6349116969542,92.1958667762119
+"Central Asia","Africa_Southern","Food supply quantity (g/capita/day)",10.9426946348289,10.9104171998976,10.5857422739051
+"Central Asia","Africa_Southern","Protein supply quantity (g/capita/day)",0.0203982742313722,0.0203749680061428,0.0203475952727043
+"Central Asia","Africa_West","Fat supply quantity (g/capita/day)",0.209000686679709,0.139972571945072,0.137183475306016
+"Central Asia","Africa_West","Food supply (kcal/capita/day)",59.2642939507405,59.7265956670883,58.7444644637962
+"Central Asia","Africa_West","Food supply quantity (g/capita/day)",17.8165787803014,17.623141910087,17.7863910591026
+"Central Asia","Africa_West","Protein supply quantity (g/capita/day)",1.16480313022298,1.1499115722382,1.15670569376699
+"Central Asia","America_Caribbean","Fat supply quantity (g/capita/day)",10.7839899977974,10.78997312516,10.4145585540037
+"Central Asia","America_Caribbean","Food supply (kcal/capita/day)",95.4422735576487,95.447299718454,92.0778613410858
+"Central Asia","America_Caribbean","Food supply quantity (g/capita/day)",10.7387118925152,10.7066675198362,10.4505593123934
+"Central Asia","America_Caribbean","Protein supply quantity (g/capita/day)",0,0,0.00682929912153195
+"Central Asia","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",13.0656504670718,13.2800228635467,13.2400188076081
+"Central Asia","America_Central_and_Mexico","Food supply (kcal/capita/day)",185.125986292318,177.929479753475,175.152907706398
+"Central Asia","America_Central_and_Mexico","Food supply quantity (g/capita/day)",36.8976199422152,34.5872262575007,33.3968489922779
+"Central Asia","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",1.90451006050555,1.61364206391149,1.63030150794249
+"Central Asia","America_North","Fat supply quantity (g/capita/day)",12.8405762927069,12.305999478878,13.1108128693023
+"Central Asia","America_North","Food supply (kcal/capita/day)",139.099218739878,135.259298014617,144.642984837172
+"Central Asia","America_North","Food supply quantity (g/capita/day)",59.3239962167835,59.8355008247188,66.6353189852467
+"Central Asia","America_North","Protein supply quantity (g/capita/day)",0.275678582071182,0.305281596978062,0.329904161827586
+"Central Asia","America_South_andean","Fat supply quantity (g/capita/day)",0.466837256908905,0.467344540669148,0.569620622207913
+"Central Asia","America_South_andean","Food supply (kcal/capita/day)",152.137089773655,151.562764785918,152.237867013803
+"Central Asia","America_South_andean","Food supply quantity (g/capita/day)",330.273777904461,338.412233336468,346.441636228659
+"Central Asia","America_South_andean","Protein supply quantity (g/capita/day)",4.33837114390475,4.31322088968247,4.36877893097562
+"Central Asia","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"Central Asia","America_South_temperate","Food supply (kcal/capita/day)",1.16552867859503,1.10966214486819,1.28320500796654
+"Central Asia","America_South_temperate","Food supply quantity (g/capita/day)",2.82490963035902,2.65927944147812,2.76988596866011
+"Central Asia","America_South_temperate","Protein supply quantity (g/capita/day)",0.282490963035902,0.265927944147812,0.276988596866011
+"Central Asia","America_South_tropical","Fat supply quantity (g/capita/day)",12.768009794903,12.4725300100884,12.5757224217399
+"Central Asia","America_South_tropical","Food supply (kcal/capita/day)",118.286785950274,114.947360999136,117.056228269634
+"Central Asia","America_South_tropical","Food supply quantity (g/capita/day)",17.223041343301,16.6101937771056,17.2439602051819
+"Central Asia","America_South_tropical","Protein supply quantity (g/capita/day)",0.567729940530946,0.55107380289513,0.656870303345036
+"Central Asia","Asia_Central","Fat supply quantity (g/capita/day)",5.67309381599576,5.60760898936034,5.59057458735224
+"Central Asia","Asia_Central","Food supply (kcal/capita/day)",1278.77387507612,1288.71182382885,1259.35034530315
+"Central Asia","Asia_Central","Food supply quantity (g/capita/day)",566.707889042924,570.067431918697,575.683117447959
+"Central Asia","Asia_Central","Protein supply quantity (g/capita/day)",37.2430379746835,37.5397573030069,36.6239538835694
+"Central Asia","Asia_East","Fat supply quantity (g/capita/day)",1.21555394322584,1.2427320414191,1.22807317895931
+"Central Asia","Asia_East","Food supply (kcal/capita/day)",107.207753002604,107.713096549862,112.623946335502
+"Central Asia","Asia_East","Food supply quantity (g/capita/day)",101.276900353705,97.134669942044,110.94669981594
+"Central Asia","Asia_East","Protein supply quantity (g/capita/day)",1.65136105100864,1.6524186821415,1.71496239990834
+"Central Asia","Asia_South","Fat supply quantity (g/capita/day)",0.558633377816359,0.572095572613087,0.596555183970563
+"Central Asia","Asia_South","Food supply (kcal/capita/day)",242.300260420041,238.188176593345,242.1076224286
+"Central Asia","Asia_South","Food supply quantity (g/capita/day)",72.3882979412565,71.0362361920918,72.7250510255819
+"Central Asia","Asia_South","Protein supply quantity (g/capita/day)",1.53292175738181,1.51303742793183,1.49388332958242
+"Central Asia","Asia_Southeast","Fat supply quantity (g/capita/day)",0.265057072153195,0.313572409060489,0.354215734172542
+"Central Asia","Asia_Southeast","Food supply (kcal/capita/day)",238.767150797456,234.889962206849,239.049077298211
+"Central Asia","Asia_Southeast","Food supply quantity (g/capita/day)",71.0311208426726,69.8586434667642,71.5556427547507
+"Central Asia","Asia_Southeast","Protein supply quantity (g/capita/day)",1.42644882940544,1.40642493752999,1.41513221755173
+"Central Asia","Asia_West","Fat supply quantity (g/capita/day)",6.07742896751875,6.04770830801472,6.06012208716787
+"Central Asia","Asia_West","Food supply (kcal/capita/day)",1299.66500395165,1311.68050576491,1282.58985179276
+"Central Asia","Asia_West","Food supply quantity (g/capita/day)",586.049466851509,594.991325010501,599.997481792477
+"Central Asia","Asia_West","Protein supply quantity (g/capita/day)",37.646361245352,37.9259264452104,37.0808048584433
+"Central Asia","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.136269644869984,0.105890760018758,0.141679200596708
+"Central Asia","Europe_Eastern_north","Food supply (kcal/capita/day)",192.572263322234,185.035086117362,194.371066993499
+"Central Asia","Europe_Eastern_north","Food supply quantity (g/capita/day)",78.9966313825583,72.5137674054226,81.4955679196569
+"Central Asia","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.14830597411347,0.127251261115636,0.229122758887224
+"Central Asia","Europe_Eastern_south","Fat supply quantity (g/capita/day)",0.939944029125585,0.877970340515578,0.681872182496342
+"Central Asia","Europe_Eastern_south","Food supply (kcal/capita/day)",198.463055336019,190.450899499116,197.239659277209
+"Central Asia","Europe_Eastern_south","Food supply quantity (g/capita/day)",79.2392495756838,72.3893861508086,80.8245726208674
+"Central Asia","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.124098570928831,0.0972952036866887,0.191523694800658
+"Central Asia","Europe_Western_north","Fat supply quantity (g/capita/day)",0.136269644869984,0.105890760018758,0.141679200596708
+"Central Asia","Europe_Western_north","Food supply (kcal/capita/day)",192.572263322234,185.035086117362,194.371066993499
+"Central Asia","Europe_Western_north","Food supply quantity (g/capita/day)",78.9966313825583,72.5137674054226,81.4955679196569
+"Central Asia","Europe_Western_north","Protein supply quantity (g/capita/day)",0.14830597411347,0.127251261115636,0.229122758887224
+"Central Asia","Europe_Western_south","Fat supply quantity (g/capita/day)",0.939944029125585,0.877970340515578,0.681872182496342
+"Central Asia","Europe_Western_south","Food supply (kcal/capita/day)",198.463055336019,190.450899499116,197.239659277209
+"Central Asia","Europe_Western_south","Food supply quantity (g/capita/day)",79.2392495756838,72.3893861508086,80.8245726208674
+"Central Asia","Europe_Western_south","Protein supply quantity (g/capita/day)",0.124098570928831,0.0972952036866887,0.191523694800658
+"Central Asia","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",6.42106551960924,6.38759636514196,6.14189976389856
+"Central Asia","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",1459.36136195794,1465.88625480082,1435.84013212794
+"Central Asia","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",573.090084604122,580.385797683554,576.547929413694
+"Central Asia","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",36.8299910602075,37.1129106377903,36.1590313760359
+"Central Asia","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",0.114268686109635,0.173599837115417,0.217032258866526
+"Central Asia","Pacific_Region_tropical","Food supply (kcal/capita/day)",0.749323037456435,1.17147869214369,1.70072878945371
+"Central Asia","Pacific_Region_tropical","Food supply quantity (g/capita/day)",0.0384540637186945,0.0749289009669468,0.0758382390581008
+"Central Asia","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0,0,0
+"East Asia","Africa_Central","Fat supply quantity (g/capita/day)",9.74806392753432,8.92725987450842,9.11551990386397
+"East Asia","Africa_Central","Food supply (kcal/capita/day)",854.160779440287,851.074290917329,865.199794225973
+"East Asia","Africa_Central","Food supply quantity (g/capita/day)",215.031573087674,214.727432630949,219.761232248246
+"East Asia","Africa_Central","Protein supply quantity (g/capita/day)",15.0003659385554,15.2031939547169,15.2837174594083
+"East Asia","Africa_East","Fat supply quantity (g/capita/day)",2.31171079114805,2.27347200285145,2.44982283342973
+"East Asia","Africa_East","Food supply (kcal/capita/day)",36.0178791089983,38.3353087684091,38.4529574244929
+"East Asia","Africa_East","Food supply quantity (g/capita/day)",9.18307341681715,8.43469988510096,8.39496695947974
+"East Asia","Africa_East","Protein supply quantity (g/capita/day)",0.881936470087774,1.06026470076991,0.978753176613139
+"East Asia","Africa_Southern","Fat supply quantity (g/capita/day)",1.49447892255774,1.24537231742757,1.33441442689313
+"East Asia","Africa_Southern","Food supply (kcal/capita/day)",23.9567122080713,23.9858048548764,23.2501021694871
+"East Asia","Africa_Southern","Food supply quantity (g/capita/day)",6.18760757097712,5.3581197723606,5.32559528154791
+"East Asia","Africa_Southern","Protein supply quantity (g/capita/day)",0.523759939763408,0.609521496661904,0.609778384243374
+"East Asia","Africa_West","Fat supply quantity (g/capita/day)",9.74960215700519,8.92879736290713,9.11705672013172
+"East Asia","Africa_West","Food supply (kcal/capita/day)",856.366721807805,854.955882786668,869.113097722696
+"East Asia","Africa_West","Food supply quantity (g/capita/day)",216.232038368639,215.942303239324,220.960614676592
+"East Asia","Africa_West","Protein supply quantity (g/capita/day)",15.0967637348454,15.2995921743152,15.3801168506966
+"East Asia","America_Caribbean","Fat supply quantity (g/capita/day)",1.41862045330181,1.24672324393047,1.34418214183433
+"East Asia","America_Caribbean","Food supply (kcal/capita/day)",15.4575954971507,13.8206621221619,13.885944535851
+"East Asia","America_Caribbean","Food supply quantity (g/capita/day)",4.90124960632257,4.06282611464929,4.07719271317859
+"East Asia","America_Caribbean","Protein supply quantity (g/capita/day)",0.0126003285747015,0.0125518567395406,0.0125008033173419
+"East Asia","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",8.84550658632597,7.87795005311962,8.39953317123481
+"East Asia","America_Central_and_Mexico","Food supply (kcal/capita/day)",208.937800543921,200.462438808891,205.614203648901
+"East Asia","America_Central_and_Mexico","Food supply quantity (g/capita/day)",100.516737681131,96.3409451590859,98.3945426831361
+"East Asia","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",2.2544929718717,2.33670424887972,2.35465315720874
+"East Asia","America_North","Fat supply quantity (g/capita/day)",0.337866435583012,0.44784205053675,0.435719513404949
+"East Asia","America_North","Food supply (kcal/capita/day)",9.38375644321357,11.4048593945806,11.2105689732949
+"East Asia","America_North","Food supply quantity (g/capita/day)",14.0530869675256,15.6132483419335,16.4191432238388
+"East Asia","America_North","Protein supply quantity (g/capita/day)",0.00497179092146711,0.0902670288715986,0.0903133967127318
+"East Asia","America_South_andean","Fat supply quantity (g/capita/day)",0.287834215570502,0.28586628915023,0.287894460011643
+"East Asia","America_South_andean","Food supply (kcal/capita/day)",86.1783524433878,91.9640436930093,92.4969985568365
+"East Asia","America_South_andean","Food supply quantity (g/capita/day)",168.980809369238,176.701414368843,179.783693937028
+"East Asia","America_South_andean","Protein supply quantity (g/capita/day)",2.74019782645879,2.81352783964086,2.93284878479144
+"East Asia","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"East Asia","America_South_temperate","Food supply (kcal/capita/day)",0.973207844642106,0.973167843581687,0.969047792858306
+"East Asia","America_South_temperate","Food supply quantity (g/capita/day)",2.04506320613423,2.04315083149626,2.89846692734705
+"East Asia","America_South_temperate","Protein supply quantity (g/capita/day)",0.204337678354021,0.204281510793669,0.289674860815522
+"East Asia","America_South_tropical","Fat supply quantity (g/capita/day)",12.4709566724458,12.021869346431,12.1924678470284
+"East Asia","America_South_tropical","Food supply (kcal/capita/day)",188.672358763685,182.953476244892,184.900096023719
+"East Asia","America_South_tropical","Food supply quantity (g/capita/day)",91.0882815719832,87.5641988161195,89.2793210829778
+"East Asia","America_South_tropical","Protein supply quantity (g/capita/day)",2.48334121214149,2.75105621141924,2.66613332634526
+"East Asia","Asia_Central","Fat supply quantity (g/capita/day)",2.9111641554412,2.91361450024568,3.00092510960992
+"East Asia","Asia_Central","Food supply (kcal/capita/day)",589.435179709408,597.339199396576,605.401084026059
+"East Asia","Asia_Central","Food supply quantity (g/capita/day)",324.190399130533,334.052389818352,344.757472411119
+"East Asia","Asia_Central","Protein supply quantity (g/capita/day)",17.4580747264455,17.7395763482438,17.9333247854129
+"East Asia","Asia_East","Fat supply quantity (g/capita/day)",12.0294940290416,11.9695393307994,11.9047453437231
+"East Asia","Asia_East","Food supply (kcal/capita/day)",930.25804853388,938.700594826845,950.432104242202
+"East Asia","Asia_East","Food supply quantity (g/capita/day)",319.980548705866,326.452325685739,339.354353106483
+"East Asia","Asia_East","Protein supply quantity (g/capita/day)",18.9523027683965,19.3651924951037,19.3771432350696
+"East Asia","Asia_South","Fat supply quantity (g/capita/day)",4.71717247773474,5.08519509303935,4.65778375508274
+"East Asia","Asia_South","Food supply (kcal/capita/day)",904.222348381331,909.947093104614,922.331528287066
+"East Asia","Asia_South","Food supply quantity (g/capita/day)",258.420018947009,257.715069846188,264.718375969986
+"East Asia","Asia_South","Protein supply quantity (g/capita/day)",15.3815477471553,15.5903524344351,15.6770060315874
+"East Asia","Asia_Southeast","Fat supply quantity (g/capita/day)",3.89825570130123,4.15779992507403,3.64328211444355
+"East Asia","Asia_Southeast","Food supply (kcal/capita/day)",889.04140382058,894.468752294373,907.644860734409
+"East Asia","Asia_Southeast","Food supply quantity (g/capita/day)",254.525217130065,256.318884669858,264.201196833651
+"East Asia","Asia_Southeast","Protein supply quantity (g/capita/day)",14.9250709566094,15.042238353687,15.2092260762737
+"East Asia","Asia_West","Fat supply quantity (g/capita/day)",3.63458384429877,3.84837305852948,4.02295316301134
+"East Asia","Asia_West","Food supply (kcal/capita/day)",598.30965735705,607.595108601865,615.774289976659
+"East Asia","Asia_West","Food supply quantity (g/capita/day)",301.750516750935,309.670583650702,317.969450855385
+"East Asia","Asia_West","Protein supply quantity (g/capita/day)",18.0198025900977,18.4782904203322,18.5059493526354
+"East Asia","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.0992141598907865,0.100187942441294,0.100181190956175
+"East Asia","Europe_Eastern_north","Food supply (kcal/capita/day)",94.3507014243075,94.6294157845295,98.9054749742471
+"East Asia","Europe_Eastern_north","Food supply quantity (g/capita/day)",62.2226500692052,65.3121225070957,69.6152256557409
+"East Asia","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.109046849349825,0.106433530186568,0.191801234020224
+"East Asia","Europe_Eastern_south","Fat supply quantity (g/capita/day)",5.89173709732084,6.37108045881802,6.07532121774797
+"East Asia","Europe_Eastern_south","Food supply (kcal/capita/day)",147.6672256518,153.522791864571,155.492770767859
+"East Asia","Europe_Eastern_south","Food supply quantity (g/capita/day)",69.1091409532453,72.3588828374979,76.8016058859608
+"East Asia","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.290264822625833,0.284210199344492,0.369620565922249
+"East Asia","Europe_Western_north","Fat supply quantity (g/capita/day)",0.0992141598907865,0.100187942441294,0.100181190956175
+"East Asia","Europe_Western_north","Food supply (kcal/capita/day)",94.3507014243075,94.6294157845295,98.9054749742471
+"East Asia","Europe_Western_north","Food supply quantity (g/capita/day)",62.2226500692052,65.3121225070957,69.6152256557409
+"East Asia","Europe_Western_north","Protein supply quantity (g/capita/day)",0.109046849349825,0.106433530186568,0.191801234020224
+"East Asia","Europe_Western_south","Fat supply quantity (g/capita/day)",5.89173709732084,6.37108045881802,6.07532121774797
+"East Asia","Europe_Western_south","Food supply (kcal/capita/day)",147.6672256518,153.522791864571,155.492770767859
+"East Asia","Europe_Western_south","Food supply quantity (g/capita/day)",69.1091409532453,72.3588828374979,76.8016058859608
+"East Asia","Europe_Western_south","Protein supply quantity (g/capita/day)",0.290264822625833,0.284210199344492,0.369620565922249
+"East Asia","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",8.51434955021367,8.99401370379643,8.78552275525057
+"East Asia","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",703.229214620627,715.251096121734,722.934752537702
+"East Asia","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",292.010988886147,298.793334224412,308.033458557248
+"East Asia","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",17.3194926342085,17.6869825229217,17.7923792481449
+"East Asia","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",0.530323544466457,0.797288106663454,0.518515107669481
+"East Asia","Pacific_Region_tropical","Food supply (kcal/capita/day)",7.24131874207517,9.08178665175677,7.14116173102252
+"East Asia","Pacific_Region_tropical","Food supply quantity (g/capita/day)",4.28616672736189,5.16941865857416,4.26830050495124
+"East Asia","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.0110170983811732,0.0109637274225906,0.010908331976273
+"Europe","Africa_Central","Fat supply quantity (g/capita/day)",5.1206248687612,4.08387969606061,4.92169146676196
+"Europe","Africa_Central","Food supply (kcal/capita/day)",117.348904596744,109.134741007293,117.521528933409
+"Europe","Africa_Central","Food supply quantity (g/capita/day)",34.9217172367604,34.5447134860536,35.6739215935054
+"Europe","Africa_Central","Protein supply quantity (g/capita/day)",2.49549380558328,2.54356353895993,2.56474271588319
+"Europe","Africa_East","Fat supply quantity (g/capita/day)",8.67091903451169,9.04225948542265,9.43231330639277
+"Europe","Africa_East","Food supply (kcal/capita/day)",109.075332606283,111.82889874165,116.176538061046
+"Europe","Africa_East","Food supply quantity (g/capita/day)",31.7375293219802,32.1051363280775,32.720876867259
+"Europe","Africa_East","Protein supply quantity (g/capita/day)",2.36565647407013,2.40991685113338,2.39151895925605
+"Europe","Africa_Southern","Fat supply quantity (g/capita/day)",0.930124216057889,0.906199201296004,0.917359831044032
+"Europe","Africa_Southern","Food supply (kcal/capita/day)",23.6159078594983,23.0206118107409,23.6620129090497
+"Europe","Africa_Southern","Food supply quantity (g/capita/day)",5.68960291780569,5.4209704421593,5.79850566462869
+"Europe","Africa_Southern","Protein supply quantity (g/capita/day)",0.902763621193504,0.914196315960995,0.915142232161522
+"Europe","Africa_West","Fat supply quantity (g/capita/day)",5.14221437524975,4.08909875486201,4.94308514614109
+"Europe","Africa_West","Food supply (kcal/capita/day)",119.737192252252,110.523941125615,120.141780695574
+"Europe","Africa_West","Food supply quantity (g/capita/day)",35.8061235841483,34.9251199719667,36.5903969231872
+"Europe","Africa_West","Protein supply quantity (g/capita/day)",2.56114235341713,2.57638512874984,2.63499656947224
+"Europe","America_Caribbean","Fat supply quantity (g/capita/day)",0.901199825821887,0.893211006476182,0.898311853911657
+"Europe","America_Caribbean","Food supply (kcal/capita/day)",8.82322031393021,8.79239465079299,8.87766591367468
+"Europe","America_Caribbean","Food supply quantity (g/capita/day)",1.42451964699892,1.30365788270088,1.36755768578567
+"Europe","America_Caribbean","Protein supply quantity (g/capita/day)",0.0618969450824157,0.0560203333271118,0.0646922456465042
+"Europe","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",9.26392895216412,8.23883290206317,9.28679372367644
+"Europe","America_Central_and_Mexico","Food supply (kcal/capita/day)",168.601459855998,168.174556279636,174.192636062936
+"Europe","America_Central_and_Mexico","Food supply quantity (g/capita/day)",42.5300415486203,43.8735746395807,44.3153016577019
+"Europe","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",2.74647813285373,2.93114477296855,2.89996569245431
+"Europe","America_North","Fat supply quantity (g/capita/day)",19.7774727279079,20.3278461026805,19.0324786939153
+"Europe","America_North","Food supply (kcal/capita/day)",230.823569225345,237.444560964724,223.182512345759
+"Europe","America_North","Food supply quantity (g/capita/day)",103.56188691886,107.562522785713,101.015390588197
+"Europe","America_North","Protein supply quantity (g/capita/day)",0.234373593089033,0.236305179235662,0.231844476359717
+"Europe","America_South_andean","Fat supply quantity (g/capita/day)",0.488607132988832,0.466037005952931,0.451164671877983
+"Europe","America_South_andean","Food supply (kcal/capita/day)",182.110727001743,175.066619592321,179.415336040849
+"Europe","America_South_andean","Food supply quantity (g/capita/day)",342.647337038087,327.147817230109,332.581179421436
+"Europe","America_South_andean","Protein supply quantity (g/capita/day)",5.14701745143507,4.96184538516396,5.06412438719242
+"Europe","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"Europe","America_South_temperate","Food supply (kcal/capita/day)",0.883061951044863,0.823171313532658,0.818012074649121
+"Europe","America_South_temperate","Food supply quantity (g/capita/day)",2.56123418293488,2.45572500671245,2.64474911073409
+"Europe","America_South_temperate","Protein supply quantity (g/capita/day)",0.245485451712517,0.245350591504402,0.263230570634889
+"Europe","America_South_tropical","Fat supply quantity (g/capita/day)",9.23011736035228,8.19263164691909,9.26390173276299
+"Europe","America_South_tropical","Food supply (kcal/capita/day)",94.0688343272872,85.17860241099,95.2384702929549
+"Europe","America_South_tropical","Food supply quantity (g/capita/day)",23.7322346356483,21.912920426492,24.2391269818203
+"Europe","America_South_tropical","Protein supply quantity (g/capita/day)",1.30134292446058,1.29423209855578,1.41549144465504
+"Europe","Asia_Central","Fat supply quantity (g/capita/day)",4.20377378712211,4.22179283535699,4.26061807845816
+"Europe","Asia_Central","Food supply (kcal/capita/day)",1106.39825333566,1107.16773653602,1101.31914385252
+"Europe","Asia_Central","Food supply quantity (g/capita/day)",618.888228917673,615.525314065104,616.813821621379
+"Europe","Asia_Central","Protein supply quantity (g/capita/day)",32.2562113505784,32.2723506133156,32.122241308386
+"Europe","Asia_East","Fat supply quantity (g/capita/day)",8.67249145178772,8.93057947892114,9.07268326302905
+"Europe","Asia_East","Food supply (kcal/capita/day)",230.228766316392,233.83362465505,235.757317624708
+"Europe","Asia_East","Food supply quantity (g/capita/day)",247.480015208072,250.052792123452,251.479868445116
+"Europe","Asia_East","Protein supply quantity (g/capita/day)",2.10646402620009,2.06123392424408,2.20120100521651
+"Europe","Asia_South","Fat supply quantity (g/capita/day)",2.02605496983964,2.84841381622912,2.14753897853771
+"Europe","Asia_South","Food supply (kcal/capita/day)",476.559540453964,483.462276209821,482.489151723917
+"Europe","Asia_South","Food supply quantity (g/capita/day)",159.493665995954,161.060052862124,163.323134320426
+"Europe","Asia_South","Protein supply quantity (g/capita/day)",2.43206699681028,2.46368975648882,2.55119668684497
+"Europe","Asia_Southeast","Fat supply quantity (g/capita/day)",1.57584044556093,2.35165798720464,1.67227222176864
+"Europe","Asia_Southeast","Food supply (kcal/capita/day)",457.105756775634,463.216144015254,463.342972369645
+"Europe","Asia_Southeast","Food supply quantity (g/capita/day)",153.129324156082,153.795836486863,156.345947001535
+"Europe","Asia_Southeast","Protein supply quantity (g/capita/day)",1.50735122270185,1.49895436912886,1.61598494585007
+"Europe","Asia_West","Fat supply quantity (g/capita/day)",12.1476344752901,12.5604762841283,12.9592057342652
+"Europe","Asia_West","Food supply (kcal/capita/day)",1281.76878140414,1288.25328149611,1282.18093884845
+"Europe","Asia_West","Food supply quantity (g/capita/day)",682.66538595318,684.08686200782,680.644022824284
+"Europe","Asia_West","Protein supply quantity (g/capita/day)",35.2354464798304,35.3537950848397,35.0984287555454
+"Europe","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.356910908734959,0.358741573293394,0.362659892242285
+"Europe","Europe_Eastern_north","Food supply (kcal/capita/day)",407.990237289141,406.339963344146,408.816166586297
+"Europe","Europe_Eastern_north","Food supply quantity (g/capita/day)",166.763777892086,165.659342003024,165.90817801484
+"Europe","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.5761519045173,0.532118781235937,0.565026320768833
+"Europe","Europe_Eastern_south","Fat supply quantity (g/capita/day)",14.5960122057345,14.8347192759293,15.0339912890736
+"Europe","Europe_Eastern_south","Food supply (kcal/capita/day)",535.862641485145,536.422111974816,540.947839070307
+"Europe","Europe_Eastern_south","Food supply quantity (g/capita/day)",183.543092030487,182.775181525142,182.977007061257
+"Europe","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.938795604480411,0.935844840102423,0.929553112819462
+"Europe","Europe_Western_north","Fat supply quantity (g/capita/day)",0.356910908734959,0.358741573293394,0.362659892242285
+"Europe","Europe_Western_north","Food supply (kcal/capita/day)",407.990237289141,406.339963344146,408.816166586297
+"Europe","Europe_Western_north","Food supply quantity (g/capita/day)",166.763777892086,165.659342003024,165.90817801484
+"Europe","Europe_Western_north","Protein supply quantity (g/capita/day)",0.5761519045173,0.532118781235937,0.565026320768833
+"Europe","Europe_Western_south","Fat supply quantity (g/capita/day)",14.5960122057345,14.8347192759293,15.0339912890736
+"Europe","Europe_Western_south","Food supply (kcal/capita/day)",535.862641485145,536.422111974816,540.947839070307
+"Europe","Europe_Western_south","Food supply quantity (g/capita/day)",183.543092030487,182.775181525142,182.977007061257
+"Europe","Europe_Western_south","Protein supply quantity (g/capita/day)",0.938795604480411,0.935844840102423,0.929553112819462
+"Europe","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",18.5869718965134,18.8499497276979,19.0752444116857
+"Europe","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",1653.77082074189,1659.24402513716,1653.39546824406
+"Europe","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",744.434744106272,745.54694387653,738.935680657817
+"Europe","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",33.5321171053442,33.6921990381376,33.3861092652311
+"Europe","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",1.40643726052905,2.20205123398272,1.50383751093819
+"Europe","Pacific_Region_tropical","Food supply (kcal/capita/day)",12.7546485148606,19.7755710523055,13.5656916546947
+"Europe","Pacific_Region_tropical","Food supply quantity (g/capita/day)",2.99747466188248,3.88157484513784,3.1302276003173
+"Europe","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.0103373498905505,0.0211240168479684,0.0188125236698264
+"Latin America","Africa_Central","Fat supply quantity (g/capita/day)",9.46784109020035,9.45465667574405,10.3489954953451
+"Latin America","Africa_Central","Food supply (kcal/capita/day)",371.91505200528,366.968657304352,375.591661901737
+"Latin America","Africa_Central","Food supply quantity (g/capita/day)",92.3639732150053,91.1046257452651,92.1179836539597
+"Latin America","Africa_Central","Protein supply quantity (g/capita/day)",6.7752014289648,6.6426228642901,6.69190070502807
+"Latin America","Africa_East","Fat supply quantity (g/capita/day)",2.01991754522027,2.15632057668094,2.3655469952774
+"Latin America","Africa_East","Food supply (kcal/capita/day)",41.0301875898769,40.5999563685151,42.8290983253155
+"Latin America","Africa_East","Food supply quantity (g/capita/day)",13.1129537386028,13.2563136912941,13.6233096662496
+"Latin America","Africa_East","Protein supply quantity (g/capita/day)",1.74959305424951,1.73376186269252,1.72099519103116
+"Latin America","Africa_Southern","Fat supply quantity (g/capita/day)",1.36918442352571,1.42750620243383,1.5380003950479
+"Latin America","Africa_Southern","Food supply (kcal/capita/day)",26.9684343490004,26.2239597484054,27.6350310028383
+"Latin America","Africa_Southern","Food supply quantity (g/capita/day)",5.69445325134714,5.46614943944276,5.83239921312508
+"Latin America","Africa_Southern","Protein supply quantity (g/capita/day)",1.03820242122555,0.971119387764015,1.00018995176903
+"Latin America","Africa_West","Fat supply quantity (g/capita/day)",9.47166098361726,9.45985867314855,10.3527795368704
+"Latin America","Africa_West","Food supply (kcal/capita/day)",377.162575040629,372.755422810987,381.208565496732
+"Latin America","Africa_West","Food supply quantity (g/capita/day)",98.0540309014891,97.276549491617,98.1306122361841
+"Latin America","Africa_West","Protein supply quantity (g/capita/day)",6.86607440073543,6.74338924939111,6.78354252356643
+"Latin America","America_Caribbean","Fat supply quantity (g/capita/day)",1.43773748890814,1.50592604347027,1.61264457969861
+"Latin America","America_Caribbean","Food supply (kcal/capita/day)",18.6327400350468,19.1589412750973,20.3270667640698
+"Latin America","America_Caribbean","Food supply quantity (g/capita/day)",6.97473893948917,7.11314682769552,7.32596096473789
+"Latin America","America_Caribbean","Protein supply quantity (g/capita/day)",0.202284413017517,0.192183700850798,0.201729009623128
+"Latin America","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",15.1805666410215,15.2302870466555,16.1377412790921
+"Latin America","America_Central_and_Mexico","Food supply (kcal/capita/day)",611.152733964693,614.7047303894,618.31497553612
+"Latin America","America_Central_and_Mexico","Food supply quantity (g/capita/day)",227.182487952431,228.611100836776,227.800532649289
+"Latin America","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",14.5478677211352,14.6492829894971,14.4680251707998
+"Latin America","America_North","Fat supply quantity (g/capita/day)",2.8954295041901,2.96229651656703,3.04106256638092
+"Latin America","America_North","Food supply (kcal/capita/day)",34.8002804019365,35.6875818199892,37.4201925494076
+"Latin America","America_North","Food supply quantity (g/capita/day)",18.3541011302433,18.1449460380778,19.1358457115573
+"Latin America","America_North","Protein supply quantity (g/capita/day)",0.0357044079524811,0.0367398275359339,0.0370609794720603
+"Latin America","America_South_andean","Fat supply quantity (g/capita/day)",0.613481050632263,0.614317133249051,0.576960810551914
+"Latin America","America_South_andean","Food supply (kcal/capita/day)",140.933111019214,142.470832107794,139.118758655435
+"Latin America","America_South_andean","Food supply quantity (g/capita/day)",136.535009253645,135.649256415332,135.741986849454
+"Latin America","America_South_andean","Protein supply quantity (g/capita/day)",6.61247344214391,6.69892197667051,6.54528120453281
+"Latin America","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"Latin America","America_South_temperate","Food supply (kcal/capita/day)",1.06996264561542,1.14172966980918,1.21564618327403
+"Latin America","America_South_temperate","Food supply quantity (g/capita/day)",3.03357748330833,2.89418080898024,2.99787431109561
+"Latin America","America_South_temperate","Protein supply quantity (g/capita/day)",0.303152802806952,0.288855817172921,0.299601582122668
+"Latin America","America_South_tropical","Fat supply quantity (g/capita/day)",11.37475308359,11.4931209887333,12.6322287380849
+"Latin America","America_South_tropical","Food supply (kcal/capita/day)",185.113609682292,188.200743251541,198.921297821926
+"Latin America","America_South_tropical","Food supply quantity (g/capita/day)",114.905518047525,117.308491364102,119.991719419234
+"Latin America","America_South_tropical","Protein supply quantity (g/capita/day)",1.59979897434143,1.63722663196072,1.6851122929723
+"Latin America","Asia_Central","Fat supply quantity (g/capita/day)",1.36461018199666,1.38036492008097,1.4093220726217
+"Latin America","Asia_Central","Food supply (kcal/capita/day)",436.128029559144,443.05665133232,446.135670859082
+"Latin America","Asia_Central","Food supply quantity (g/capita/day)",298.785594559776,306.408172395639,308.551448167873
+"Latin America","Asia_Central","Protein supply quantity (g/capita/day)",11.0537489113808,11.134845339145,11.3022969770497
+"Latin America","Asia_East","Fat supply quantity (g/capita/day)",20.3483043829497,20.619902423731,21.0847591976111
+"Latin America","Asia_East","Food supply (kcal/capita/day)",495.935194479439,496.108617140889,503.054024234189
+"Latin America","Asia_East","Food supply quantity (g/capita/day)",214.804834730518,216.435452430488,223.160155301433
+"Latin America","Asia_East","Protein supply quantity (g/capita/day)",7.12619591190754,7.10225212998212,7.16183587581967
+"Latin America","Asia_South","Fat supply quantity (g/capita/day)",3.13192733094766,3.13305376690657,3.09757384596596
+"Latin America","Asia_South","Food supply (kcal/capita/day)",768.623721388587,754.512239654888,750.765590410447
+"Latin America","Asia_South","Food supply quantity (g/capita/day)",326.189170861792,320.928094676488,324.737231935945
+"Latin America","Asia_South","Protein supply quantity (g/capita/day)",7.84794879739198,7.72033737426178,7.82432014813227
+"Latin America","Asia_Southeast","Fat supply quantity (g/capita/day)",2.84804775463686,2.82243021885332,2.73782079298256
+"Latin America","Asia_Southeast","Food supply (kcal/capita/day)",750.906965396533,738.142788927089,732.835201341815
+"Latin America","Asia_Southeast","Food supply quantity (g/capita/day)",312.467419932879,308.204501342304,310.379078958222
+"Latin America","Asia_Southeast","Protein supply quantity (g/capita/day)",6.77165275164778,6.71113819519055,6.77756320059633
+"Latin America","Asia_West","Fat supply quantity (g/capita/day)",2.10693409748442,2.20110666380042,2.32905233306229
+"Latin America","Asia_West","Food supply (kcal/capita/day)",464.660858193188,470.709487777916,475.510921029219
+"Latin America","Asia_West","Food supply quantity (g/capita/day)",306.268630291227,314.597992689776,316.952779245326
+"Latin America","Asia_West","Protein supply quantity (g/capita/day)",12.4508127852266,12.5035443668875,12.6613320107238
+"Latin America","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.143143032115426,0.168237161934051,0.147880741993404
+"Latin America","Europe_Eastern_north","Food supply (kcal/capita/day)",388.249426577559,380.910898283013,374.026626180463
+"Latin America","Europe_Eastern_north","Food supply quantity (g/capita/day)",133.789811621489,131.592219337673,131.259292103225
+"Latin America","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.240382359407179,0.293092454533675,0.300241791410053
+"Latin America","Europe_Eastern_south","Fat supply quantity (g/capita/day)",1.42802463689667,1.55596433593023,1.67113862374662
+"Latin America","Europe_Eastern_south","Food supply (kcal/capita/day)",401.68983890146,394.066128957723,388.163723315391
+"Latin America","Europe_Eastern_south","Food supply quantity (g/capita/day)",135.163229211978,132.73289029828,132.076051768893
+"Latin America","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.445762354918167,0.472900411988974,0.455938998429306
+"Latin America","Europe_Western_north","Fat supply quantity (g/capita/day)",0.143143032115426,0.168237161934051,0.147880741993404
+"Latin America","Europe_Western_north","Food supply (kcal/capita/day)",388.249426577559,380.910898283013,374.026626180463
+"Latin America","Europe_Western_north","Food supply quantity (g/capita/day)",133.789811621489,131.592219337673,131.259292103225
+"Latin America","Europe_Western_north","Protein supply quantity (g/capita/day)",0.240382359407179,0.293092454533675,0.300241791410053
+"Latin America","Europe_Western_south","Fat supply quantity (g/capita/day)",1.42802463689667,1.55596433593023,1.67113862374662
+"Latin America","Europe_Western_south","Food supply (kcal/capita/day)",401.68983890146,394.066128957723,388.163723315391
+"Latin America","Europe_Western_south","Food supply quantity (g/capita/day)",135.163229211978,132.73289029828,132.076051768893
+"Latin America","Europe_Western_south","Protein supply quantity (g/capita/day)",0.445762354918167,0.472900411988974,0.455938998429306
+"Latin America","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",2.81406959042877,2.96089543911411,3.08638264012961
+"Latin America","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",838.624012021154,836.359666090115,834.041579501763
+"Latin America","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",401.059103341971,407.000486972877,407.749706838393
+"Latin America","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",12.1357373414336,12.1960272599833,12.3525008452451
+"Latin America","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",2.17090240398086,2.14391902120087,2.06312685689325
+"Latin America","Pacific_Region_tropical","Food supply (kcal/capita/day)",26.1047341130404,25.8631116285543,25.5613612567298
+"Latin America","Pacific_Region_tropical","Food supply quantity (g/capita/day)",18.1494608003928,17.78580838733,18.206733680223
+"Latin America","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.257522505192098,0.260688398317883,0.267865288756626
+"North America","Africa_Central","Fat supply quantity (g/capita/day)",0.577003015338898,0.497047691361624,0.507277925809748
+"North America","Africa_Central","Food supply (kcal/capita/day)",98.0468207839881,101.345003796485,102.745749129219
+"North America","Africa_Central","Food supply quantity (g/capita/day)",35.8517152471267,37.4483345988285,37.9481509678047
+"North America","Africa_Central","Protein supply quantity (g/capita/day)",2.82284053664293,3.21232399754023,3.09222264517071
+"North America","Africa_East","Fat supply quantity (g/capita/day)",5.02133199318271,5.16059046172768,5.20987037741951
+"North America","Africa_East","Food supply (kcal/capita/day)",73.523410391994,73.0937168890185,67.9820434517557
+"North America","Africa_East","Food supply quantity (g/capita/day)",24.3600402045187,25.8571915247435,23.6520396452193
+"North America","Africa_East","Protein supply quantity (g/capita/day)",2.2031735349386,2.13202876667639,1.84157453226827
+"North America","Africa_Southern","Fat supply quantity (g/capita/day)",2.26233098806975,2.28177138518303,2.3111666032244
+"North America","Africa_Southern","Food supply (kcal/capita/day)",33.4417252982564,37.1232399754022,34.2183377742924
+"North America","Africa_Southern","Food supply quantity (g/capita/day)",6.27835511078093,7.67490537657381,6.97407548390236
+"North America","Africa_Southern","Protein supply quantity (g/capita/day)",0.763839531529957,1.06306207469982,0.923130003234125
+"North America","Africa_West","Fat supply quantity (g/capita/day)",0.577003015338898,0.497047691361624,0.507277925809748
+"North America","Africa_West","Food supply (kcal/capita/day)",98.0468207839881,101.345003796485,102.745749129219
+"North America","Africa_West","Food supply quantity (g/capita/day)",35.8517152471267,37.4483345988285,37.9481509678047
+"North America","Africa_West","Protein supply quantity (g/capita/day)",2.82284053664293,3.21232399754023,3.09222264517071
+"North America","America_Caribbean","Fat supply quantity (g/capita/day)",2.33283048551327,2.3423618469107,2.36181471612684
+"North America","America_Caribbean","Food supply (kcal/capita/day)",22.5249748721759,22.5221423147878,22.8155547096586
+"North America","America_Caribbean","Food supply quantity (g/capita/day)",4.80332998295678,4.70442846295757,5.60518490321953
+"North America","America_Caribbean","Protein supply quantity (g/capita/day)",0.1,0.1,0.1
+"North America","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",10.3344954769916,10.3339856166618,10.6742775451561
+"North America","America_Central_and_Mexico","Food supply (kcal/capita/day)",222.344954769917,222.339856166618,225.334998096732
+"North America","America_Central_and_Mexico","Food supply quantity (g/capita/day)",68.5900100511296,68.7881907654465,72.4935188709756
+"North America","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",4.22133199318271,4.23103330802343,4.27038886774146
+"North America","America_North","Fat supply quantity (g/capita/day)",1.1491675042608,1.6,2.14077773548293
+"North America","America_North","Food supply (kcal/capita/day)",35.5733601363458,41.9852384568081,47.2961113225854
+"North America","America_North","Food supply quantity (g/capita/day)",43.5733601363458,43.8719530679355,45.4805566129268
+"North America","America_North","Protein supply quantity (g/capita/day)",0.290166499147839,0.380295230863837,0.470388867741465
+"North America","America_South_andean","Fat supply quantity (g/capita/day)",0.480332998295678,0.480295230863838,0.480259245160976
+"North America","America_South_andean","Food supply (kcal/capita/day)",136,134.477857685212,137.184445290341
+"North America","America_South_andean","Food supply quantity (g/capita/day)",274.229969846611,266.674905376574,265.184445290342
+"North America","America_South_andean","Protein supply quantity (g/capita/day)",5.09183149062623,4.9507380771596,4.96051849032195
+"North America","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"North America","America_South_temperate","Food supply (kcal/capita/day)",0,0,0.0987037741951179
+"North America","America_South_temperate","Food supply quantity (g/capita/day)",1,1,1
+"North America","America_South_temperate","Protein supply quantity (g/capita/day)",0.1,0.1,0.1
+"North America","America_South_tropical","Fat supply quantity (g/capita/day)",8.8738294804003,8.61280469320645,8.99272207419026
+"North America","America_South_tropical","Food supply (kcal/capita/day)",109.148284752874,105.53690385798,112.334998096731
+"North America","America_South_tropical","Food supply quantity (g/capita/day)",46.721644889219,45.916237697511,49.6181471612684
+"North America","America_South_tropical","Protein supply quantity (g/capita/day)",3.23116549403488,3.14088569259151,3.34077773548293
+"North America","Asia_Central","Fat supply quantity (g/capita/day)",2.97049949744352,3.06059046172767,2.94077773548293
+"North America","Asia_Central","Food supply (kcal/capita/day)",734.278355110781,730.295571537042,707.906290516001
+"North America","Asia_Central","Food supply quantity (g/capita/day)",541.164934667658,535.512187728258,504.399809386976
+"North America","Asia_Central","Protein supply quantity (g/capita/day)",20.759001005113,20.7591143074085,19.8927220741902
+"North America","Asia_East","Fat supply quantity (g/capita/day)",53.4732596250491,53.5536222511569,55.3089782741221
+"North America","Asia_East","Food supply (kcal/capita/day)",621.484412008915,621.107797085801,639.466641289757
+"North America","Asia_East","Food supply quantity (g/capita/day)",294.688345059652,287.576381530893,272.875371709707
+"North America","Asia_East","Protein supply quantity (g/capita/day)",2.48850150766945,2.49852384568081,2.42831490645365
+"North America","Asia_South","Fat supply quantity (g/capita/day)",1.27866800681729,1.26896669197657,1.30857415161463
+"North America","Asia_South","Food supply (kcal/capita/day)",413.406860988507,416.162717648315,437.891307645414
+"North America","Asia_South","Food supply quantity (g/capita/day)",154.753380238605,158.773429222254,168.45463209683
+"North America","Asia_South","Protein supply quantity (g/capita/day)",2.53267403749508,2.8221763821083,2.80209302259022
+"North America","Asia_Southeast","Fat supply quantity (g/capita/day)",1.11966700170432,1.10985238456808,1.12961113225853
+"North America","Asia_Southeast","Food supply (kcal/capita/day)",399.801765502775,397.970476913616,422.797598161414
+"North America","Asia_Southeast","Food supply quantity (g/capita/day)",140.261705195997,142.886714611128,150.270186806488
+"North America","Asia_Southeast","Protein supply quantity (g/capita/day)",1.65900100511296,1.74926192284041,1.7789630193561
+"North America","Asia_West","Fat supply quantity (g/capita/day)",5.65900100511296,5.88867146111273,5.78883339677561
+"North America","Asia_West","Food supply (kcal/capita/day)",784.653480749902,782.246479950805,756.059817000048
+"North America","Asia_West","Food supply quantity (g/capita/day)",526.59001005113,520.128046932065,509.854441483805
+"North America","Asia_West","Protein supply quantity (g/capita/day)",22.1916750426081,22.1207002277891,21.0540373612976
+"North America","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.390166499147839,0.370442846295756,0.390129622580488
+"North America","Europe_Eastern_north","Food supply (kcal/capita/day)",335.770030153389,331.930999240703,351.652039645219
+"North America","Europe_Eastern_north","Food supply quantity (g/capita/day)",155.114984923306,157.339856166618,141.283149064536
+"North America","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.750832495739195,0.831033308023431,0.840777735482929
+"North America","Europe_Eastern_south","Fat supply quantity (g/capita/day)",10.8925577939956,11.3370060599412,11.3632062484438
+"North America","Europe_Eastern_south","Food supply (kcal/capita/day)",424.237232880305,417.921726000583,433.297064387705
+"North America","Europe_Eastern_south","Food supply quantity (g/capita/day)",160.736730323821,161.266048450659,143.514449096878
+"North America","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.739334003408644,0.459114307408487,0.128314906453653
+"North America","Europe_Western_north","Fat supply quantity (g/capita/day)",0.390166499147839,0.370442846295756,0.390129622580488
+"North America","Europe_Western_north","Food supply (kcal/capita/day)",335.770030153389,331.930999240703,351.652039645219
+"North America","Europe_Western_north","Food supply quantity (g/capita/day)",155.114984923306,157.339856166618,141.283149064536
+"North America","Europe_Western_north","Protein supply quantity (g/capita/day)",0.750832495739195,0.831033308023431,0.840777735482929
+"North America","Europe_Western_south","Fat supply quantity (g/capita/day)",10.8925577939956,11.3370060599412,11.3632062484438
+"North America","Europe_Western_south","Food supply (kcal/capita/day)",424.237232880305,417.921726000583,433.297064387705
+"North America","Europe_Western_south","Food supply quantity (g/capita/day)",160.736730323821,161.266048450659,143.514449096878
+"North America","Europe_Western_south","Protein supply quantity (g/capita/day)",0.739334003408644,0.459114307408487,0.128314906453653
+"North America","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",13.5827242931434,14.1468584445092,14.0434654936047
+"North America","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",1141.12068347682,1137.00068134641,1129.90224929093
+"North America","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",585.523410391994,579.773429222254,574.296111322585
+"North America","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",21.6916750426081,21.7108478432211,20.5540373612975
+"North America","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",0.909833500852161,0.9,0.919740754839024
+"North America","Pacific_Region_tropical","Food supply (kcal/capita/day)",9.09833500852161,9.09852384568081,9.19740754839024
+"North America","Pacific_Region_tropical","Food supply quantity (g/capita/day)",5,5,5.90129622580488
+"North America","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0,0,0.00987037741951179
+"Pacific","Africa_Central","Fat supply quantity (g/capita/day)",14.515699029464,11.6099715685267,10.3364741641337
+"Pacific","Africa_Central","Food supply (kcal/capita/day)",274.708491320833,254.183674168465,227.498210064168
+"Pacific","Africa_Central","Food supply quantity (g/capita/day)",68.705256200647,67.5907580584387,61.5541708882135
+"Pacific","Africa_Central","Protein supply quantity (g/capita/day)",3.83580547535395,4.00352481759325,3.60400540357988
+"Pacific","Africa_East","Fat supply quantity (g/capita/day)",9.16372838904929,10.0524475045388,11.038335021952
+"Pacific","Africa_East","Food supply (kcal/capita/day)",104.233172157095,118.65704107149,137.422627490713
+"Pacific","Africa_East","Food supply quantity (g/capita/day)",30.465648589418,34.5984653855376,37.3701452212091
+"Pacific","Africa_East","Protein supply quantity (g/capita/day)",1.83557588617943,2.23284691535642,2.87070921985815
+"Pacific","Africa_Southern","Fat supply quantity (g/capita/day)",5.04160086269872,4.96940704963519,6.66260385005066
+"Pacific","Africa_Southern","Food supply (kcal/capita/day)",55.9693185375865,59.2656116192238,72.5077001013171
+"Pacific","Africa_Southern","Food supply quantity (g/capita/day)",8.52704630048352,9.56174425375947,10.3283012495779
+"Pacific","Africa_Southern","Protein supply quantity (g/capita/day)",0.79451768880231,1.01457883739253,0.862853765619722
+"Pacific","Africa_West","Fat supply quantity (g/capita/day)",14.5201273176332,11.6135751721303,10.3401080715974
+"Pacific","Africa_West","Food supply (kcal/capita/day)",278.516436497721,257.928647278457,231.513610266802
+"Pacific","Africa_West","Food supply quantity (g/capita/day)",72.7495042961005,71.6059329291269,65.8624788922662
+"Pacific","Africa_West","Protein supply quantity (g/capita/day)",3.90641806101506,4.07257219196382,3.67869638635597
+"Pacific","America_Caribbean","Fat supply quantity (g/capita/day)",4.99419417678366,4.93295995615387,6.59625464370145
+"Pacific","America_Caribbean","Food supply (kcal/capita/day)",56.7879430897137,55.662590347001,71.2611279972982
+"Pacific","America_Caribbean","Food supply quantity (g/capita/day)",20.6804188263123,19.3388826088446,21.1222222222222
+"Pacific","America_Caribbean","Protein supply quantity (g/capita/day)",0.277322851080113,0.251950810125715,0.258652482269504
+"Pacific","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",20.6244999478206,17.8861165347857,18.570989530564
+"Pacific","America_Central_and_Mexico","Food supply (kcal/capita/day)",252.856750269593,228.024594937142,235.231644714623
+"Pacific","America_Central_and_Mexico","Food supply quantity (g/capita/day)",72.9477510696768,70.1951152673586,70.8485646740966
+"Pacific","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",1.9932340765993,1.98897680950913,2.04446470786896
+"Pacific","America_North","Fat supply quantity (g/capita/day)",4.67537482172053,2.89508443805022,3.81603512326916
+"Pacific","America_North","Food supply (kcal/capita/day)",89.4174348627682,77.7440139759532,80.2009118541034
+"Pacific","America_North","Food supply quantity (g/capita/day)",79.8925800953143,82.9784879936971,75.0257345491388
+"Pacific","America_North","Protein supply quantity (g/capita/day)",0.122618012314328,0.198376323091152,0.198324890239784
+"Pacific","America_South_andean","Fat supply quantity (g/capita/day)",0.296858802657669,0.281827835440003,0.202073623775752
+"Pacific","America_South_andean","Food supply (kcal/capita/day)",95.8484363585765,99.3102113520364,89.5831813576495
+"Pacific","America_South_andean","Food supply quantity (g/capita/day)",204.249556475458,212.68355427671,189.986828774063
+"Pacific","America_South_andean","Protein supply quantity (g/capita/day)",2.80343688037013,3.04801150960847,2.68150624788922
+"Pacific","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"Pacific","America_South_temperate","Food supply (kcal/capita/day)",0.95505617977528,0.954989209742061,0.805775075987842
+"Pacific","America_South_temperate","Food supply quantity (g/capita/day)",1.92834034855811,1.92553009283048,1.02860520094563
+"Pacific","America_South_temperate","Protein supply quantity (g/capita/day)",0.19363759696664,0.191128010139417,0.178817966903074
+"Pacific","America_South_tropical","Fat supply quantity (g/capita/day)",21.6754722231885,19.2954578152297,19.6231070584262
+"Pacific","America_South_tropical","Food supply (kcal/capita/day)",239.69596827495,219.727366149419,222.341067207025
+"Pacific","America_South_tropical","Food supply quantity (g/capita/day)",90.0203151633214,84.5129996917069,80.4135089496791
+"Pacific","America_South_tropical","Protein supply quantity (g/capita/day)",2.10950360037569,2.27781317439112,2.19897669706181
+"Pacific","Asia_Central","Fat supply quantity (g/capita/day)",2.68004661355968,2.6053403213099,2.54672745694023
+"Pacific","Asia_Central","Food supply (kcal/capita/day)",695.894910773299,671.94861781934,659.700945626478
+"Pacific","Asia_Central","Food supply quantity (g/capita/day)",510.034855811041,482.395985338951,496.815636609254
+"Pacific","Asia_Central","Protein supply quantity (g/capita/day)",20.2305840609455,18.8769122734902,18.1247382641
+"Pacific","Asia_East","Fat supply quantity (g/capita/day)",4.5348279820503,4.20973863597438,5.13147247551503
+"Pacific","Asia_East","Food supply (kcal/capita/day)",251.437402163704,255.921590792313,243.496082404593
+"Pacific","Asia_East","Food supply quantity (g/capita/day)",237.495564754583,248.040352139212,227.989294157379
+"Pacific","Asia_East","Protein supply quantity (g/capita/day)",3.23384005287509,3.32154626108999,3.03391759540695
+"Pacific","Asia_South","Fat supply quantity (g/capita/day)",4.5338470101228,5.66695440687836,5.13476865923674
+"Pacific","Asia_South","Food supply (kcal/capita/day)",620.608967892302,625.893193573801,594.169368456602
+"Pacific","Asia_South","Food supply quantity (g/capita/day)",235.06588513584,236.078546226835,218.495947315096
+"Pacific","Asia_South","Protein supply quantity (g/capita/day)",4.38673600723553,4.59950330558695,4.19452549814252
+"Pacific","Asia_Southeast","Fat supply quantity (g/capita/day)",4.00863394441159,5.11435960675504,4.58821681864235
+"Pacific","Asia_Southeast","Food supply (kcal/capita/day)",600.890005913661,602.688589730415,573.315636609254
+"Pacific","Asia_Southeast","Food supply quantity (g/capita/day)",227.708456534595,227.76583427534,210.918237082067
+"Pacific","Asia_Southeast","Protein supply quantity (g/capita/day)",3.57421643997635,3.56785530777926,3.31383316447146
+"Pacific","Asia_West","Fat supply quantity (g/capita/day)",6.8766375621804,7.85390333299079,7.08814927389396
+"Pacific","Asia_West","Food supply (kcal/capita/day)",785.471214387589,784.493166169972,770.834245187436
+"Pacific","Asia_West","Food supply quantity (g/capita/day)",530.923992068738,516.210940979002,521.871563660925
+"Pacific","Asia_West","Protein supply quantity (g/capita/day)",21.6857863429227,20.8824923783099,20.8626409996623
+"Pacific","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.244390719031551,0.167362038844929,0.246822019587977
+"Pacific","Europe_Eastern_north","Food supply (kcal/capita/day)",420.434758409573,405.091117733704,402.981458966565
+"Pacific","Europe_Eastern_north","Food supply quantity (g/capita/day)",179.987824816503,172.163703627582,175.53370482945
+"Pacific","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.38600897484955,0.260161682595143,0.368416075650119
+"Pacific","Europe_Eastern_south","Fat supply quantity (g/capita/day)",21.4195185584582,25.425074504162,24.2759270516717
+"Pacific","Europe_Eastern_south","Food supply (kcal/capita/day)",608.84763627509,634.15082382763,631.677068557919
+"Pacific","Europe_Eastern_south","Food supply quantity (g/capita/day)",204.714057119004,204.522042955503,208.951367781155
+"Pacific","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.650102619403763,0.824310622409482,1.63149611617696
+"Pacific","Europe_Western_north","Fat supply quantity (g/capita/day)",0.244390719031551,0.167362038844929,0.246822019587977
+"Pacific","Europe_Western_north","Food supply (kcal/capita/day)",420.434758409573,405.091117733704,402.981458966565
+"Pacific","Europe_Western_north","Food supply quantity (g/capita/day)",179.987824816503,172.163703627582,175.53370482945
+"Pacific","Europe_Western_north","Protein supply quantity (g/capita/day)",0.38600897484955,0.260161682595143,0.368416075650119
+"Pacific","Europe_Western_south","Fat supply quantity (g/capita/day)",21.4195185584582,25.425074504162,24.2759270516717
+"Pacific","Europe_Western_south","Food supply (kcal/capita/day)",608.84763627509,634.15082382763,631.677068557919
+"Pacific","Europe_Western_south","Food supply quantity (g/capita/day)",204.714057119004,204.522042955503,208.951367781155
+"Pacific","Europe_Western_south","Protein supply quantity (g/capita/day)",0.650102619403763,0.824310622409482,1.63149611617696
+"Pacific","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",23.9868264514558,28.0266433734115,26.8011516379602
+"Pacific","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",1319.07399032942,1333.1835714041,1305.62911178656
+"Pacific","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",633.481267610533,619.84859384099,618.675582573455
+"Pacific","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",21.3504156955509,20.4731236940363,20.2936339074636
+"Pacific","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",3.62690367690542,4.7391429452266,4.2506990881459
+"Pacific","Pacific_Region_tropical","Food supply (kcal/capita/day)",50.9390545100358,60.0809440619327,55.4280310705843
+"Pacific","Pacific_Region_tropical","Food supply quantity (g/capita/day)",40.42926218388,40.0331586339191,39.708713272543
+"Pacific","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.570581278046404,0.544517521323605,0.547132725430598
+"South Asia","Africa_Central","Fat supply quantity (g/capita/day)",10.0461290685368,8.49253908894618,8.56460822028751
+"South Asia","Africa_Central","Food supply (kcal/capita/day)",1002.17543695228,986.299626747995,990.964556477919
+"South Asia","Africa_Central","Food supply quantity (g/capita/day)",268.37808159134,266.579995030901,268.026302839081
+"South Asia","Africa_Central","Protein supply quantity (g/capita/day)",20.9730227927458,20.7920536406486,21.1033051843603
+"South Asia","Africa_East","Fat supply quantity (g/capita/day)",3.88725254270035,4.64673438310905,4.54664476052283
+"South Asia","Africa_East","Food supply (kcal/capita/day)",206.76471478789,214.044973200321,222.311390632381
+"South Asia","Africa_East","Food supply quantity (g/capita/day)",59.7266434913504,59.6098430889291,63.4482520078289
+"South Asia","Africa_East","Protein supply quantity (g/capita/day)",8.33322257531497,8.13444540077071,8.61407631436863
+"South Asia","Africa_Southern","Fat supply quantity (g/capita/day)",3.49179840358501,4.00443951331298,4.16965633506558
+"South Asia","Africa_Southern","Food supply (kcal/capita/day)",186.403303852332,193.269865542426,203.930125306517
+"South Asia","Africa_Southern","Food supply quantity (g/capita/day)",54.3497031233329,54.344574319721,58.5950119232413
+"South Asia","Africa_Southern","Protein supply quantity (g/capita/day)",7.13665741960972,7.04965703956984,7.5461776731682
+"South Asia","Africa_West","Fat supply quantity (g/capita/day)",10.6620382839692,9.19446130473752,9.35062090841601
+"South Asia","Africa_West","Food supply (kcal/capita/day)",1059.75883420757,1051.60505837268,1057.98159912038
+"South Asia","Africa_West","Food supply quantity (g/capita/day)",286.927852049011,287.710007467888,289.160913140312
+"South Asia","Africa_West","Protein supply quantity (g/capita/day)",22.6525494770414,22.6418340534256,23.0393157634249
+"South Asia","America_Caribbean","Fat supply quantity (g/capita/day)",1.9454328718456,2.37509050097496,2.47364766821894
+"South Asia","America_Caribbean","Food supply (kcal/capita/day)",21.1393157562353,24.6285576582869,25.8093209376617
+"South Asia","America_Caribbean","Food supply quantity (g/capita/day)",4.03285685036782,4.03242800322636,4.99880767586781
+"South Asia","America_Caribbean","Protein supply quantity (g/capita/day)",0.304953399446907,0.222473216338799,0.319071561944613
+"South Asia","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",8.28220297193874,7.40712759694194,7.65906672515804
+"South Asia","America_Central_and_Mexico","Food supply (kcal/capita/day)",157.463371994106,160.245287008225,161.865697622101
+"South Asia","America_Central_and_Mexico","Food supply quantity (g/capita/day)",51.9845729388051,52.691308560449,52.6177715349486
+"South Asia","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",2.90270267347604,3.58073818895536,3.477709444107
+"South Asia","America_North","Fat supply quantity (g/capita/day)",1.72944103847718,1.21455227201052,1.55442861240467
+"South Asia","America_North","Food supply (kcal/capita/day)",16.5412909449012,11.3918775864413,14.7021326854289
+"South Asia","America_North","Food supply quantity (g/capita/day)",5.29161247718274,2.73344908915263,3.57368366290972
+"South Asia","America_North","Protein supply quantity (g/capita/day)",0,0,0
+"South Asia","America_South_andean","Fat supply quantity (g/capita/day)",0.272028349631031,0.274002709511982,0.274046843715552
+"South Asia","America_South_andean","Food supply (kcal/capita/day)",65.3804094562212,80.793733239077,85.3455855886256
+"South Asia","America_South_andean","Food supply quantity (g/capita/day)",88.7521750289091,98.6492805127997,114.559003172032
+"South Asia","America_South_andean","Protein supply quantity (g/capita/day)",2.40585621307065,3.25816416681083,3.27212070594587
+"South Asia","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"South Asia","America_South_temperate","Food supply (kcal/capita/day)",0.873082701563253,0.888079927043934,0.873443510832152
+"South Asia","America_South_temperate","Food supply quantity (g/capita/day)",1.85823021711359,1.90285837140248,1.01494482688803
+"South Asia","America_South_temperate","Protein supply quantity (g/capita/day)",0.185823021711359,0.190285837140248,0.187344351083216
+"South Asia","America_South_tropical","Fat supply quantity (g/capita/day)",11.1436746814236,10.7846385051125,10.2823081876673
+"South Asia","America_South_tropical","Food supply (kcal/capita/day)",123.589757971261,116.736375732284,112.90755972869
+"South Asia","America_South_tropical","Food supply quantity (g/capita/day)",39.1938897331715,34.9511988843019,35.0610855211357
+"South Asia","America_South_tropical","Protein supply quantity (g/capita/day)",0.765010655262604,0.687032429427037,0.771414591347777
+"South Asia","Asia_Central","Fat supply quantity (g/capita/day)",2.19435739682851,2.27769571881445,2.18484989089109
+"South Asia","Asia_Central","Food supply (kcal/capita/day)",473.388811830081,485.520859184399,480.081221457335
+"South Asia","Asia_Central","Food supply quantity (g/capita/day)",177.833795926488,185.979960574679,189.750004218127
+"South Asia","Asia_Central","Protein supply quantity (g/capita/day)",13.7921401217497,14.1119400063075,14.0576242660457
+"South Asia","Asia_East","Fat supply quantity (g/capita/day)",8.29006357111343,8.31845223221501,8.15627544937121
+"South Asia","Asia_East","Food supply (kcal/capita/day)",942.389376313885,952.475750010145,948.280312872601
+"South Asia","Asia_East","Food supply quantity (g/capita/day)",276.186061936057,280.370098976209,275.229709399113
+"South Asia","Asia_East","Protein supply quantity (g/capita/day)",17.6399187374018,17.890404155819,17.8317625025309
+"South Asia","Asia_South","Fat supply quantity (g/capita/day)",8.31379005816418,8.45082492039118,7.94046070392118
+"South Asia","Asia_South","Food supply (kcal/capita/day)",1244.44496391052,1256.9506201052,1248.65623804863
+"South Asia","Asia_South","Food supply quantity (g/capita/day)",418.280246383122,450.218342812354,422.044017569909
+"South Asia","Asia_South","Protein supply quantity (g/capita/day)",22.3147192576209,22.6527724088245,22.7938616397831
+"South Asia","Asia_Southeast","Fat supply quantity (g/capita/day)",7.13567256478948,7.02768066201508,6.86299436458122
+"South Asia","Asia_Southeast","Food supply (kcal/capita/day)",1166.0777625102,1176.86718051999,1164.71857916582
+"South Asia","Asia_Southeast","Food supply quantity (g/capita/day)",391.847561256946,425.452677867786,394.737723841983
+"South Asia","Asia_Southeast","Protein supply quantity (g/capita/day)",18.0572564645291,18.4783417729719,18.2923404422847
+"South Asia","Asia_West","Fat supply quantity (g/capita/day)",3.39421551890696,3.7226822317665,3.35921604688309
+"South Asia","Asia_West","Food supply (kcal/capita/day)",567.391671016244,579.158667341553,576.734152493758
+"South Asia","Asia_West","Food supply quantity (g/capita/day)",204.908000674785,209.477179516203,214.503364659963
+"South Asia","Asia_West","Protein supply quantity (g/capita/day)",19.238649549999,19.2792792812033,19.618100548919
+"South Asia","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.0926209062308054,0.0926303552194413,0.0911626003914423
+"South Asia","Europe_Eastern_north","Food supply (kcal/capita/day)",209.378909212549,209.563462451617,205.012042754943
+"South Asia","Europe_Eastern_north","Food supply quantity (g/capita/day)",83.8438571473887,107.386273467072,86.1322059683697
+"South Asia","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.0999769304192608,0.185805887600103,0.0999766596926954
+"South Asia","Europe_Eastern_south","Fat supply quantity (g/capita/day)",4.97713054787371,4.51897455721263,5.40863577309847
+"South Asia","Europe_Eastern_south","Food supply (kcal/capita/day)",269.131282495667,263.516987842791,266.423283503183
+"South Asia","Europe_Eastern_south","Food supply quantity (g/capita/day)",93.8073199779686,116.380119756727,96.4325254212504
+"South Asia","Europe_Eastern_south","Protein supply quantity (g/capita/day)",1.29350238049236,1.18171663174771,1.16339185282671
+"South Asia","Europe_Western_north","Fat supply quantity (g/capita/day)",0.0926209062308054,0.0926303552194413,0.0911626003914423
+"South Asia","Europe_Western_north","Food supply (kcal/capita/day)",209.378909212549,209.563462451617,205.012042754943
+"South Asia","Europe_Western_north","Food supply quantity (g/capita/day)",83.8438571473887,107.386273467072,86.1322059683697
+"South Asia","Europe_Western_north","Protein supply quantity (g/capita/day)",0.0999769304192608,0.185805887600103,0.0999766596926954
+"South Asia","Europe_Western_south","Fat supply quantity (g/capita/day)",4.97713054787371,4.51897455721263,5.40863577309847
+"South Asia","Europe_Western_south","Food supply (kcal/capita/day)",269.131282495667,263.516987842791,266.423283503183
+"South Asia","Europe_Western_south","Food supply quantity (g/capita/day)",93.8073199779686,116.380119756727,96.4325254212504
+"South Asia","Europe_Western_south","Protein supply quantity (g/capita/day)",1.29350238049236,1.18171663174771,1.16339185282671
+"South Asia","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",7.87926780034432,7.50272773676016,8.30496684551529
+"South Asia","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",805.147437690504,809.2383986115,809.537617263954
+"South Asia","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",266.331305132694,287.692014770613,267.388725787946
+"South Asia","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",19.025734838239,18.9805096673195,19.2427699883017
+"South Asia","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",3.17713667573109,3.1430161011646,2.98458850757013
+"South Asia","Pacific_Region_tropical","Food supply (kcal/capita/day)",33.9088160402795,32.7856623674699,31.22542799937
+"South Asia","Pacific_Region_tropical","Food supply quantity (g/capita/day)",17.6626874042973,18.3933241782298,16.800232278239
+"South Asia","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.215690486970013,0.299896061810475,0.215402212548649
+"Southeast Asia","Africa_Central","Fat supply quantity (g/capita/day)",13.9452981796428,14.1806654200808,14.9728240566864
+"Southeast Asia","Africa_Central","Food supply (kcal/capita/day)",1346.05403127938,1347.41714849405,1359.01961491274
+"Southeast Asia","Africa_Central","Food supply quantity (g/capita/day)",364.990687975387,364.877417371461,367.533111328109
+"Southeast Asia","Africa_Central","Protein supply quantity (g/capita/day)",24.5473708230066,24.579264446798,24.7447398950066
+"Southeast Asia","Africa_East","Fat supply quantity (g/capita/day)",1.12470489701735,1.12422193957268,1.12928616139613
+"Southeast Asia","Africa_East","Food supply (kcal/capita/day)",27.1848098453124,28.2413106380392,28.9912616740529
+"Southeast Asia","Africa_East","Food supply quantity (g/capita/day)",7.51267925818306,7.93665553522956,8.38674812422277
+"Southeast Asia","Africa_East","Protein supply quantity (g/capita/day)",1.16026151610973,1.21841433607481,1.2806179423621
+"Southeast Asia","Africa_Southern","Fat supply quantity (g/capita/day)",0.229315955901205,0.315823194266381,0.376939666324478
+"Southeast Asia","Africa_Southern","Food supply (kcal/capita/day)",16.3264968806085,17.7372237621555,18.8270696144954
+"Southeast Asia","Africa_Southern","Food supply quantity (g/capita/day)",4.30709170156397,4.5527425732707,4.84596342756037
+"Southeast Asia","Africa_Southern","Protein supply quantity (g/capita/day)",0.845917613879155,0.881259490859215,0.944595508149928
+"Southeast Asia","Africa_West","Fat supply quantity (g/capita/day)",13.9452981796428,14.1806654200808,14.9728240566864
+"Southeast Asia","Africa_West","Food supply (kcal/capita/day)",1346.40641141783,1347.76802355338,1359.77611190399
+"Southeast Asia","Africa_West","Food supply quantity (g/capita/day)",365.078783009999,364.965136136294,367.620496256792
+"Southeast Asia","Africa_West","Protein supply quantity (g/capita/day)",24.5561803264678,24.5880363232813,24.7534783878748
+"Southeast Asia","America_Caribbean","Fat supply quantity (g/capita/day)",0.386890009400906,0.468546849161426,0.514372751779797
+"Southeast Asia","America_Caribbean","Food supply (kcal/capita/day)",12.0843021963935,12.4154221922681,12.8841416493486
+"Southeast Asia","America_Caribbean","Food supply quantity (g/capita/day)",6.46407144688489,6.62096358719429,6.30142634183797
+"Southeast Asia","America_Caribbean","Protein supply quantity (g/capita/day)",0.301682591231518,0.296920865448121,0.28309622173815
+"Southeast Asia","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",12.2462047688232,12.580260533059,13.3995685086424
+"Southeast Asia","America_Central_and_Mexico","Food supply (kcal/capita/day)",347.662167336125,363.090814959705,376.492210621197
+"Southeast Asia","America_Central_and_Mexico","Food supply quantity (g/capita/day)",162.226452439963,170.776116226392,174.343278499712
+"Southeast Asia","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",5.42189727373728,5.57548702148756,5.7408644850063
+"Southeast Asia","America_North","Fat supply quantity (g/capita/day)",0.390894624391078,0.381928897312071,0.356787100328001
+"Southeast Asia","America_North","Food supply (kcal/capita/day)",3.86993590291428,4.02669686850209,3.72612066735105
+"Southeast Asia","America_North","Food supply quantity (g/capita/day)",2.08268011281087,2.12755883699286,2.25344984434596
+"Southeast Asia","America_North","Protein supply quantity (g/capita/day)",0.0176190069224853,0.01761148750796,0.00873849286829081
+"Southeast Asia","America_South_andean","Fat supply quantity (g/capita/day)",0.0721909238526622,0.0858588520262088,0.0746682023419048
+"Southeast Asia","America_South_andean","Food supply (kcal/capita/day)",23.9154926929322,23.8254526474747,25.1567707420483
+"Southeast Asia","America_South_andean","Food supply quantity (g/capita/day)",22.9440799931629,23.6611499331945,24.1568258260514
+"Southeast Asia","America_South_andean","Protein supply quantity (g/capita/day)",1.11837962567302,1.15098079953785,1.24222589448909
+"Southeast Asia","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"Southeast Asia","America_South_temperate","Food supply (kcal/capita/day)",0.400309375267071,0.398733482315542,0.397284191725715
+"Southeast Asia","America_South_temperate","Food supply quantity (g/capita/day)",1.32050252115204,1.36460439480623,1.36133937588155
+"Southeast Asia","America_South_temperate","Protein supply quantity (g/capita/day)",0.132050252115204,0.136460439480623,0.136133937588155
+"Southeast Asia","America_South_tropical","Fat supply quantity (g/capita/day)",15.1251657123323,15.4406295765155,16.0781121209845
+"Southeast Asia","America_South_tropical","Food supply (kcal/capita/day)",240.509323989403,247.322703571013,253.403805803851
+"Southeast Asia","America_South_tropical","Food supply quantity (g/capita/day)",131.212414323562,135.533530287137,135.337943697472
+"Southeast Asia","America_South_tropical","Protein supply quantity (g/capita/day)",2.65528074523545,2.65562813230025,2.52743700810403
+"Southeast Asia","Asia_Central","Fat supply quantity (g/capita/day)",0.391684813263824,0.441290706179046,0.424084228448384
+"Southeast Asia","Asia_Central","Food supply (kcal/capita/day)",142.071171694727,150.353423972622,146.244756587129
+"Southeast Asia","Asia_Central","Food supply quantity (g/capita/day)",82.7711460558925,87.2534927206482,85.9567490422894
+"Southeast Asia","Asia_Central","Protein supply quantity (g/capita/day)",3.71393094607299,3.95974811534128,3.82168840815577
+"Southeast Asia","Asia_East","Fat supply quantity (g/capita/day)",7.87204854285958,8.44266566669538,8.75856581286462
+"Southeast Asia","Asia_East","Food supply (kcal/capita/day)",1293.14307153235,1297.50801412797,1305.20694559203
+"Southeast Asia","Asia_East","Food supply quantity (g/capita/day)",383.530556362704,381.897320516134,382.712374704758
+"Southeast Asia","Asia_East","Protein supply quantity (g/capita/day)",24.8721522946757,25.0597119677306,25.1913970471635
+"Southeast Asia","Asia_South","Fat supply quantity (g/capita/day)",11.5574921801555,11.6753285800915,11.3628540190457
+"Southeast Asia","Asia_South","Food supply (kcal/capita/day)",1560.72673275788,1559.61135237671,1569.76950850046
+"Southeast Asia","Asia_South","Food supply quantity (g/capita/day)",529.393007435262,529.179734703564,534.378066551491
+"Southeast Asia","Asia_South","Protein supply quantity (g/capita/day)",25.6477065208102,25.7078401464823,25.8561688241235
+"Southeast Asia","Asia_Southeast","Fat supply quantity (g/capita/day)",10.5788534313306,10.7711663685333,10.5332987806405
+"Southeast Asia","Asia_Southeast","Food supply (kcal/capita/day)",1537.97276813948,1536.64517235147,1547.02113723428
+"Southeast Asia","Asia_Southeast","Food supply quantity (g/capita/day)",525.40545423468,524.842129533442,529.889725164208
+"Southeast Asia","Asia_Southeast","Protein supply quantity (g/capita/day)",24.7438924878215,24.7523682596953,24.8128549371124
+"Southeast Asia","Asia_West","Fat supply quantity (g/capita/day)",1.38984257755747,1.36081818596425,1.28708764198736
+"Southeast Asia","Asia_West","Food supply (kcal/capita/day)",165.770523886847,174.133388061491,169.813602410342
+"Southeast Asia","Asia_West","Food supply quantity (g/capita/day)",87.2767831809247,91.9924850130993,90.8229216221405
+"Southeast Asia","Asia_West","Protein supply quantity (g/capita/day)",4.73227450645245,5.02748451480279,4.95705634425833
+"Southeast Asia","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.0637591658832579,0.058609972348767,0.0630428069472612
+"Southeast Asia","Europe_Eastern_north","Food supply (kcal/capita/day)",183.668407828391,184.536204196839,189.076244606358
+"Southeast Asia","Europe_Eastern_north","Food supply quantity (g/capita/day)",74.2843021963935,74.4009682154398,76.4625470509192
+"Southeast Asia","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.077172378429194,0.0769871473285396,0.0608302661558877
+"Southeast Asia","Europe_Eastern_south","Fat supply quantity (g/capita/day)",0.17389214597043,0.160015337397406,0.128433527796556
+"Southeast Asia","Europe_Eastern_south","Food supply (kcal/capita/day)",185.885339714554,187.038833344313,191.243511354816
+"Southeast Asia","Europe_Eastern_south","Food supply quantity (g/capita/day)",74.6408939406889,74.7091772702474,76.8813273575535
+"Southeast Asia","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.171700709341082,0.1842921740423,0.204578315264111
+"Southeast Asia","Europe_Western_north","Fat supply quantity (g/capita/day)",0.0637591658832579,0.058609972348767,0.0630428069472612
+"Southeast Asia","Europe_Western_north","Food supply (kcal/capita/day)",183.668407828391,184.536204196839,189.076244606358
+"Southeast Asia","Europe_Western_north","Food supply quantity (g/capita/day)",74.2843021963935,74.4009682154398,76.4625470509192
+"Southeast Asia","Europe_Western_north","Protein supply quantity (g/capita/day)",0.077172378429194,0.0769871473285396,0.0608302661558877
+"Southeast Asia","Europe_Western_south","Fat supply quantity (g/capita/day)",0.17389214597043,0.160015337397406,0.128433527796556
+"Southeast Asia","Europe_Western_south","Food supply (kcal/capita/day)",185.885339714554,187.038833344313,191.243511354816
+"Southeast Asia","Europe_Western_south","Food supply quantity (g/capita/day)",74.6408939406889,74.7091772702474,76.8813273575535
+"Southeast Asia","Europe_Western_south","Protein supply quantity (g/capita/day)",0.171700709341082,0.1842921740423,0.204578315264111
+"Southeast Asia","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",0.654718912913427,0.698818952834125,0.649567757496849
+"Southeast Asia","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",335.151928894966,345.231743345208,345.705522588615
+"Southeast Asia","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",144.155260234168,148.473293841224,150.318514067286
+"Southeast Asia","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",4.46101205025212,4.75502798061542,4.7008442875385
+"Southeast Asia","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",6.5541059738484,6.68065933917438,6.44174315831643
+"Southeast Asia","Pacific_Region_tropical","Food supply (kcal/capita/day)",71.7280659772669,72.2676105584807,70.2100369730506
+"Southeast Asia","Pacific_Region_tropical","Food supply quantity (g/capita/day)",37.8481138364242,37.9042915997345,36.9097239957602
+"Southeast Asia","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.429477480557218,0.42565382413005,0.373030872079922
+"W Asia and SE Mediterranean","Africa_Central","Fat supply quantity (g/capita/day)",10.7162467215329,10.9173285600622,11.1339692853159
+"W Asia and SE Mediterranean","Africa_Central","Food supply (kcal/capita/day)",334.870555640347,338.298132757407,337.285807591264
+"W Asia and SE Mediterranean","Africa_Central","Food supply quantity (g/capita/day)",80.6879199448159,81.6045518381158,80.8352853045401
+"W Asia and SE Mediterranean","Africa_Central","Protein supply quantity (g/capita/day)",7.30155697011134,7.58808112841472,7.39140745716196
+"W Asia and SE Mediterranean","Africa_East","Fat supply quantity (g/capita/day)",9.30562018457685,9.25052442793571,9.65326896075647
+"W Asia and SE Mediterranean","Africa_East","Food supply (kcal/capita/day)",153.162585493635,156.830180536457,158.51817467297
+"W Asia and SE Mediterranean","Africa_East","Food supply quantity (g/capita/day)",37.4380491910903,38.7942261619332,38.7018883307462
+"W Asia and SE Mediterranean","Africa_East","Protein supply quantity (g/capita/day)",4.44192232887938,4.7832529766746,4.61908645045595
+"W Asia and SE Mediterranean","Africa_Southern","Fat supply quantity (g/capita/day)",3.73147328057613,3.74630026019983,3.75338769915404
+"W Asia and SE Mediterranean","Africa_Southern","Food supply (kcal/capita/day)",96.0462431825115,100.468494853948,98.3759695973601
+"W Asia and SE Mediterranean","Africa_Southern","Food supply quantity (g/capita/day)",23.0036054174151,24.4099668480313,23.8989820169035
+"W Asia and SE Mediterranean","Africa_Southern","Protein supply quantity (g/capita/day)",3.75719406438758,4.09453815742231,3.93864416181028
+"W Asia and SE Mediterranean","Africa_West","Fat supply quantity (g/capita/day)",10.7483708683496,10.9554173697861,11.1691348204204
+"W Asia and SE Mediterranean","Africa_West","Food supply (kcal/capita/day)",337.920659193636,341.830615748744,340.66344542375
+"W Asia and SE Mediterranean","Africa_West","Food supply quantity (g/capita/day)",81.5521054143462,82.5819240331631,81.891975989346
+"W Asia and SE Mediterranean","Africa_West","Protein supply quantity (g/capita/day)",7.38132867370935,7.6798688622234,7.47146131498195
+"W Asia and SE Mediterranean","America_Caribbean","Fat supply quantity (g/capita/day)",3.23593158478053,3.27225444288015,3.26413231078785
+"W Asia and SE Mediterranean","America_Caribbean","Food supply (kcal/capita/day)",32.5511779412654,32.9567600613812,32.9885184168222
+"W Asia and SE Mediterranean","America_Caribbean","Food supply quantity (g/capita/day)",6.45182611388594,6.57794952678492,6.36217701507951
+"W Asia and SE Mediterranean","America_Caribbean","Protein supply quantity (g/capita/day)",0.196691102456439,0.188948012777168,0.189761670359991
+"W Asia and SE Mediterranean","America_Central_and_Mexico","Fat supply quantity (g/capita/day)",16.7748860624761,17.1640172465429,17.5520323598258
+"W Asia and SE Mediterranean","America_Central_and_Mexico","Food supply (kcal/capita/day)",297.481623546911,306.491766574038,312.818015682568
+"W Asia and SE Mediterranean","America_Central_and_Mexico","Food supply quantity (g/capita/day)",70.312159845567,72.7316911238253,73.1331787200513
+"W Asia and SE Mediterranean","America_Central_and_Mexico","Protein supply quantity (g/capita/day)",4.76948788991669,4.9634026772661,5.09315437306926
+"W Asia and SE Mediterranean","America_North","Fat supply quantity (g/capita/day)",9.20633198199154,8.98052479965439,8.87350718089187
+"W Asia and SE Mediterranean","America_North","Food supply (kcal/capita/day)",105.165629693529,102.819003308655,101.141516758584
+"W Asia and SE Mediterranean","America_North","Food supply quantity (g/capita/day)",46.3286228632351,45.558436107554,44.0955513188821
+"W Asia and SE Mediterranean","America_North","Protein supply quantity (g/capita/day)",0.244001239458904,0.244979057798715,0.232417610592808
+"W Asia and SE Mediterranean","America_South_andean","Fat supply quantity (g/capita/day)",0.467916704784313,0.452059681112419,0.455090780514882
+"W Asia and SE Mediterranean","America_South_andean","Food supply (kcal/capita/day)",99.3910905082716,99.0978340768999,103.51048890505
+"W Asia and SE Mediterranean","America_South_andean","Food supply quantity (g/capita/day)",224.441828912499,219.329856137128,221.542182603466
+"W Asia and SE Mediterranean","America_South_andean","Protein supply quantity (g/capita/day)",3.3909020987564,3.38459300794435,3.46839118565609
+"W Asia and SE Mediterranean","America_South_temperate","Fat supply quantity (g/capita/day)",0,0,0
+"W Asia and SE Mediterranean","America_South_temperate","Food supply (kcal/capita/day)",1.62966964171184,1.66553224224586,1.60638342885016
+"W Asia and SE Mediterranean","America_South_temperate","Food supply quantity (g/capita/day)",4.27734174225308,4.01661956046931,4.170053923285
+"W Asia and SE Mediterranean","America_South_temperate","Protein supply quantity (g/capita/day)",0.427734174225308,0.401550875283375,0.421067586938352
+"W Asia and SE Mediterranean","America_South_tropical","Fat supply quantity (g/capita/day)",14.2540186962523,14.5994337590413,14.802910048563
+"W Asia and SE Mediterranean","America_South_tropical","Food supply (kcal/capita/day)",135.486639715857,139.472674563833,140.984574006865
+"W Asia and SE Mediterranean","America_South_tropical","Food supply quantity (g/capita/day)",25.7431073494655,26.2163822112091,26.1466925939487
+"W Asia and SE Mediterranean","America_South_tropical","Protein supply quantity (g/capita/day)",1.06536590521027,1.11694368886972,1.11699956830801
+"W Asia and SE Mediterranean","Asia_Central","Fat supply quantity (g/capita/day)",5.73538093802058,5.7372554376412,5.70984530066021
+"W Asia and SE Mediterranean","Asia_Central","Food supply (kcal/capita/day)",1205.80611452258,1198.29022757571,1202.13867446835
+"W Asia and SE Mediterranean","Asia_Central","Food supply quantity (g/capita/day)",493.890179437671,489.53018031803,494.084968664687
+"W Asia and SE Mediterranean","Asia_Central","Protein supply quantity (g/capita/day)",35.6332122179956,35.4151038630409,35.5344856390605
+"W Asia and SE Mediterranean","Asia_East","Fat supply quantity (g/capita/day)",8.48491497839609,9.15432485651974,9.3238518433801
+"W Asia and SE Mediterranean","Asia_East","Food supply (kcal/capita/day)",314.008026898195,317.235930606359,317.040949923684
+"W Asia and SE Mediterranean","Asia_East","Food supply quantity (g/capita/day)",195.620586418458,192.40269908855,192.35929742137
+"W Asia and SE Mediterranean","Asia_East","Protein supply quantity (g/capita/day)",5.10475245434092,5.02477598327525,4.93038799684821
+"W Asia and SE Mediterranean","Asia_South","Fat supply quantity (g/capita/day)",2.58060125095231,2.62109808664221,2.71983400598921
+"W Asia and SE Mediterranean","Asia_South","Food supply (kcal/capita/day)",581.673816657838,596.887706808826,587.836732402823
+"W Asia and SE Mediterranean","Asia_South","Food supply quantity (g/capita/day)",217.611567782586,224.493854712026,224.471360885228
+"W Asia and SE Mediterranean","Asia_South","Protein supply quantity (g/capita/day)",8.09196565727886,8.3752313424358,8.19764792204373
+"W Asia and SE Mediterranean","Asia_Southeast","Fat supply quantity (g/capita/day)",0.932563705691225,0.983751141744372,0.982896160473472
+"W Asia and SE Mediterranean","Asia_Southeast","Food supply (kcal/capita/day)",487.341090431578,497.69065855446,488.207610759315
+"W Asia and SE Mediterranean","Asia_Southeast","Food supply quantity (g/capita/day)",175.710280308266,182.497600014013,182.450213101863
+"W Asia and SE Mediterranean","Asia_Southeast","Protein supply quantity (g/capita/day)",4.24694309198273,4.18180491413112,4.11987065837108
+"W Asia and SE Mediterranean","Asia_West","Fat supply quantity (g/capita/day)",11.8407088051173,11.7779611045318,12.1514010930329
+"W Asia and SE Mediterranean","Asia_West","Food supply (kcal/capita/day)",1357.79039503098,1354.74540349791,1359.63678979985
+"W Asia and SE Mediterranean","Asia_West","Food supply quantity (g/capita/day)",542.716438716169,539.866012857224,541.780348443785
+"W Asia and SE Mediterranean","Asia_West","Protein supply quantity (g/capita/day)",40.0952872823291,40.255532568027,40.2126312856051
+"W Asia and SE Mediterranean","Europe_Eastern_north","Fat supply quantity (g/capita/day)",0.106331335055415,0.110217905932169,0.130945191630218
+"W Asia and SE Mediterranean","Europe_Eastern_north","Food supply (kcal/capita/day)",300.689773311772,312.270375679093,305.148618716417
+"W Asia and SE Mediterranean","Europe_Eastern_north","Food supply quantity (g/capita/day)",135.87618526316,142.975260551152,145.115722635095
+"W Asia and SE Mediterranean","Europe_Eastern_north","Protein supply quantity (g/capita/day)",0.176899844976555,0.177950205562028,0.161099909468629
+"W Asia and SE Mediterranean","Europe_Eastern_south","Fat supply quantity (g/capita/day)",6.18965775847753,6.04486317291855,6.45223201236372
+"W Asia and SE Mediterranean","Europe_Eastern_south","Food supply (kcal/capita/day)",359.567703485871,370.056339921953,365.931377045402
+"W Asia and SE Mediterranean","Europe_Eastern_south","Food supply quantity (g/capita/day)",148.216866286826,155.079463498589,157.641832964981
+"W Asia and SE Mediterranean","Europe_Eastern_south","Protein supply quantity (g/capita/day)",0.540174269270921,0.555529717393548,0.510782458936552
+"W Asia and SE Mediterranean","Europe_Western_north","Fat supply quantity (g/capita/day)",0.106331335055415,0.110217905932169,0.130945191630218
+"W Asia and SE Mediterranean","Europe_Western_north","Food supply (kcal/capita/day)",300.689773311772,312.270375679093,305.148618716417
+"W Asia and SE Mediterranean","Europe_Western_north","Food supply quantity (g/capita/day)",135.87618526316,142.975260551152,145.115722635095
+"W Asia and SE Mediterranean","Europe_Western_north","Protein supply quantity (g/capita/day)",0.176899844976555,0.177950205562028,0.161099909468629
+"W Asia and SE Mediterranean","Europe_Western_south","Fat supply quantity (g/capita/day)",6.18965775847753,6.04486317291855,6.45223201236372
+"W Asia and SE Mediterranean","Europe_Western_south","Food supply (kcal/capita/day)",359.567703485871,370.056339921953,365.931377045402
+"W Asia and SE Mediterranean","Europe_Western_south","Food supply quantity (g/capita/day)",148.216866286826,155.079463498589,157.641832964981
+"W Asia and SE Mediterranean","Europe_Western_south","Protein supply quantity (g/capita/day)",0.540174269270921,0.555529717393548,0.510782458936552
+"W Asia and SE Mediterranean","Mediterranean_SouthandEast","Fat supply quantity (g/capita/day)",12.2887756203782,12.1426338686266,12.5320080795745
+"W Asia and SE Mediterranean","Mediterranean_SouthandEast","Food supply (kcal/capita/day)",1624.71322711146,1633.40901280635,1628.93503689909
+"W Asia and SE Mediterranean","Mediterranean_SouthandEast","Food supply quantity (g/capita/day)",601.812461120128,606.7175062544,607.817045840422
+"W Asia and SE Mediterranean","Mediterranean_SouthandEast","Protein supply quantity (g/capita/day)",39.2774350875914,39.4374124904054,39.3127697353698
+"W Asia and SE Mediterranean","Pacific_Region_tropical","Fat supply quantity (g/capita/day)",0.434625937429649,0.468907701423898,0.45830729590748
+"W Asia and SE Mediterranean","Pacific_Region_tropical","Food supply (kcal/capita/day)",5.6785885704921,6.12356140603839,6.08860257451286
+"W Asia and SE Mediterranean","Pacific_Region_tropical","Food supply quantity (g/capita/day)",3.60875776417041,3.69909690039146,3.49047844194873
+"W Asia and SE Mediterranean","Pacific_Region_tropical","Protein supply quantity (g/capita/day)",0.0299272997348609,0.0297422920617079,0.0277518020025247
