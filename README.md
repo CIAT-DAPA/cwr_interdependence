@@ -1,12 +1,33 @@
-# cwr-interdependence
+# INTERDEPENDENCE CIRCOS #
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
+This project contains tools to generate and visualizate information of 
 
-## Build & development
+![Logo](https://github.com/CIAT-DAPA/cwr_interdependence/blob/master/wiki/logo.png)
 
-Run `grunt` for building and `grunt serve` for preview.
+### What is this repository for? ###
 
-## Testing
+* Quick summary
 
-Running `grunt test` will run the unit tests with karma.
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* [Wiki](#)
+
+### Who do I talk to? ###
+
+* [Team](https://github.com/orgs/CIAT-DAPA/teams/cwr-circos)
+* [CIAT](http://ciat.cgiar.org/)
+* [Crop Wild Relatives](http://www.cwrdiversity.org)
+
+## Quick summary ##
+
+
+
+## Summary of set up ##
+
+
+## Configuration ##
+
+## Dependencies

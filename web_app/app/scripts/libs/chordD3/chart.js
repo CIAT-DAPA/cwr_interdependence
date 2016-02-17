@@ -282,7 +282,7 @@
                 if(helper.popup=='open'){      
                     CircosPopup.tools.clear();
                     var title = '<h2 class="title-center">' + data.names_description[d.id][0] + '</h2>';
-                    var html = '<p class="text-justify">' + data.names_description[d.id][1].replace('.','.<br /><br />') + '</p>';
+                    var html = '<br /><p class="text-justify">' + data.names_description[d.id][1].replace('.','.<br /><br />') + '</p>';
                     
                     CircosPopup.tools.clear();
                     CircosPopup.tools.print_title(title);    
@@ -337,9 +337,13 @@
                 // helper.popup
                 
                 if(helper.popup=='open'){
-                    var title = '<h3>Source: ' + data.names_description[d.source.id][0] + '</h3>' + 
+                    var title = '<table class="table table-bordered">' +
+                                    '<tr><th>Origin</th><td>' +  data.names_description[d.source.id][0] + '</td></tr>' +
+                                    '<tr><th>Consumer</th><td>' + data.names_description[d.target.id][0] + '</td></tr>' +
+                                '</table>';
+                    /*var title = '<h3>Source: ' + data.names_description[d.source.id][0] + '</h3>' + 
                                 '<h3>Target: ' + data.names_description[d.target.id][0] + '</h3>' + 
-                                '<h3>Total: ' +  formatNumber(d.source.value) + '</h3>';
+                                '<h3>Total: ' +  formatNumber(d.source.value) + '</h3>';*/
                                 
                     var products= data.help[currentYear][d.source.id][d.target.id];     
                     var html = '<table class="table table-hover">'+
@@ -350,6 +354,7 @@
                                     '<td>' + Tools.utils.capitalLetter(data.labels[products.positions[i]].replaceAll('_',' ')) + '</td>' +
                                     '<td class="text-right">' + formatNumber(products.values[i]) + '</td>' +
                                 '</tr>';
+                    html += '<tr><th></th><th>Total</th><th class="text-right">' + formatNumber(d.source.value) + '</th></tr>';
                     html += '</table>';
                     
                     CircosPopup.tools.clear();

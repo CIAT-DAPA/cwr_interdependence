@@ -1,6 +1,8 @@
-node_modules
-dist
-.tmp
-.sass-cache
-bower_components
-app/.htpasswd
+# Web App
+
+web_app/node_modules
+web_app/dist
+web_app/.tmp
+web_app/.sass-cache
+web_app/bower_components
+web_app/app/.htpasswd
