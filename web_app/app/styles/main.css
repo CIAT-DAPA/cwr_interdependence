@@ -111,20 +111,30 @@ text.region {
    Home
    ---------------------------------------------------------*/
 .img-home{
-    clear:both;
     background-image: url('/images/background.jpg');
     background-repeat: no-repeat;
-    background-size: cover;    
-    opacity: 0.5;
-    margin-top: -50px;
-    min-height: 400px;
-    height: 400px;
-}   
+    background-size: cover;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  color: #FFF;
+  margin-top: -50px;
+  min-height: 400px;
+}
 
 .content-home{
-    position:relative;
-    margin-top: -250px;
-    padding-bottom: 150px;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+.content-home p {
+    font-size: 25px;
+}
+
+.content-home h1 {
+    font-size: 50px;
 }
 
 
