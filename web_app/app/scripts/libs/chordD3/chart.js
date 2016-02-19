@@ -346,12 +346,13 @@
                     var products= data.help[currentYear][d.source.id][d.target.id];     
                     var html = '<table class="table table-hover">'+
                                 '<tr><th colspan="3">Top 5 Crops</th></tr>' + 
-                                '<tr><th>Crop</th><th>Name</th><th>Value</th></tr>';
+                                '<tr><th>Crop</th><th>Name</th><th>Value</th><th>Metrics</th></tr>';
                     for(var i=0;i<products.values.length;i++)
                         html += '<tr>' +
                                     '<td><img src="images/products/' +  data.labels[products.positions[i]] + '.png" class="img-responsive img-icons" alt="' + data.labels[products.positions[i]] + '">' + '</td>' + 
                                     '<td>' + Tools.utils.capitalLetter(data.labels[products.positions[i]].replaceAll('_',' ')) + '</td>' +
                                     '<td class="text-right">' + formatNumber(products.values[i]) + '</td>' +
+                                    '<td>' + data.metrics[products.metrics[i]] + '</td>' +
                                 '</tr>';
                     html += '</table>';
                     
@@ -557,6 +558,7 @@
             groupTextGroup.enter()
                 .append("g")
                 .attr('class', 'label');
+                
             groupTextGroup
                 .filter(function (d) { return d.id !== d.region })
                 .transition()

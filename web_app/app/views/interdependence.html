@@ -6,26 +6,35 @@
         <div class="row">
             <div id="brief"></div>
         </div>
-
-        <div class="wrap">
-            <main role="main">
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3 text-center">
-                        <div id="timeline"></div>
-                    </div>
+        <ul class="nav nav-tabs">
+            <li class="active"><a href="#circos_plot" showtab="">Plot</a></li>
+            <li><a href="#circos_description" showtab="">Description</a></li>
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane fade in active" id="circos_plot">
+                <div class="wrap">
+                    <main role="main">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3 text-center">
+                                <div id="timeline"></div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 col-md-8">
+                                <div id="diagram"></div>
+                            </div>
+                            <div class="col-xs-6 col-md-4">
+                                <div id="popup"></div>
+                            </div>
+                        </div>
+                    </main>
                 </div>
+            </div>
+            <div class="tab-pane fade" id="circos_description">
                 <div class="row">
-                    <div class="col-xs-12 col-md-8">
-                        <div id="diagram"></div>
-                    </div>
-                    <div class="col-xs-6 col-md-4">
-                        <div id="popup"></div>
-                    </div>
+                    <div id="description"></div>
                 </div>
-            </main>
-        </div>
-        <div class="row">
-            <div id="description"></div>
+            </div>
         </div>
     </div>
 </div>
