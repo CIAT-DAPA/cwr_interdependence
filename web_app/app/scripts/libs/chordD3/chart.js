@@ -338,8 +338,8 @@
                 
                 if(helper.popup=='open'){
                     var title = '<table class="table table-condensed">' +
-                                    '<tr><th>Origin</th><th>' +  data.names_description[d.source.id][0] + '</th></tr>' +
-                                    '<tr><th>Consumer</th><th>' + data.names_description[d.target.id][0] + '</th></tr>' +
+                                    '<tr><th>' + data.description[3] + '</th><th>' +  data.names_description[d.source.id][0] + '</th></tr>' +
+                                    '<tr><th>' + data.description[4] + '</th><th>' + data.names_description[d.target.id][0] + '</th></tr>' +
                                     '<tr><th>Total</th><th>' + formatNumber(d.source.value) + '</th></tr>' +
                                 '</table>';
                                 
