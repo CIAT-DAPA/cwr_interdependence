@@ -152,3 +152,17 @@ text.region {
 .special-text{
     font-size: 10px;
 }
+
+#references ol {
+    counter-reset: item;
+}
+#references li {
+    display: block;
+}
+#references li:before {
+    display: inline-block;
+    content: "(" counter(item) ") ";
+    counter-increment: item;
+    width: 2em;
+    margin-left: -2em;
+}
