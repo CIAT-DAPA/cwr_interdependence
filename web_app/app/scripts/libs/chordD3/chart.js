@@ -241,7 +241,7 @@
 
             var bbox = el.getBBox();
             infoTimer = setTimeout(function () {
-                var color = d3.select(el).style('fill');
+                /*var color = d3.select(el).style('fill');
 
                 info
                     .attr('transform', 'translate(' + (bbox.x + bbox.width / 2) + ',' + (bbox.y + bbox.height / 2) + ')');
@@ -275,7 +275,7 @@
 
                 info
                     .transition()
-                    .attr('opacity', 1);
+                    .attr('opacity', 1);*/
                
                 // helper.popup
                 
