@@ -281,12 +281,16 @@
                 
                 if(helper.popup=='open'){      
                     CircosPopup.tools.clear();
-                    var title = '<h2 class="title-center">' + data.names_description[d.id][0] + '</h2>';
-                    var html = '<br /><p class="text-justify">' + data.names_description[d.id][1].replace('.','.<br /><br />') + '</p>';
-                    
+                    var title = '<h2 class="text-center">' + data.names_description[d.id].title[0] + '</h2>';
+                    var html = '<br /><p class="text-justify">' + data.names_description[d.id].content1[0] + '</p>';
+                    html +='<div id="map" class="map-circos"></div>';                    
+                    html += '<br /><p class="text-justify">' + data.names_description[d.id].content2[0] + '</p>';
                     CircosPopup.tools.clear();
                     CircosPopup.tools.print_title(title);    
-                    CircosPopup.tools.print_desc(html); 
+                    CircosPopup.tools.print_desc(html);
+                    CircosMap.tools.init();
+                    CircosMap.tools.changeColorCountries(data.names_description[d.id].iso);
+                    //CircosMap.tools.changeColorCountries(data.names_description[d.id][2]);
                 }
                 
             }, config.infoPopupDelay);
