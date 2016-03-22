@@ -289,8 +289,8 @@
                     CircosPopup.tools.print_title(title);    
                     CircosPopup.tools.print_desc(html);
                     CircosMap.tools.init();
-                    CircosMap.tools.changeColorCountries(data.names_description[d.id].iso);
-                    //CircosMap.tools.changeColorCountries(data.names_description[d.id][2]);
+                    // Search the position of the color
+                    CircosMap.tools.changeColorCountries(data.names_description[d.id].iso,Tools.utils.binary_search(data.regions,d.id).toString());
                 }
                 
             }, config.infoPopupDelay);
