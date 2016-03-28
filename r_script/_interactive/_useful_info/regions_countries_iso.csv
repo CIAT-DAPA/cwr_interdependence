@@ -1,0 +1,194 @@
+Region,Country,ISO
+North America,Canada,CAN
+North America,United States of America,USA
+Central America,Belize,BLZ
+Central America,Costa Rica,CRI
+Central America,El Salvador,SLV
+Central America,Guatemala,GTM
+Central America,Honduras,HND
+Central America,Mexico,MEX
+Central America,Nicaragua,NIC
+Central America,Panama,PAN
+Caribbean,Antigua and Barbuda,ATG
+Caribbean,Bahamas,BHS
+Caribbean,Barbados,BRB
+Caribbean,Bermuda,BMU
+Caribbean,Cuba,CUB
+Caribbean,Dominica,DMA
+Caribbean,Dominican Republic,DOM
+Caribbean,Grenada,GRD
+Caribbean,Haiti,HTI
+Caribbean,Jamaica,JAM
+Caribbean,Saint Kitts and Nevis,KNA
+Caribbean,Saint Lucia,LCA
+Caribbean,Saint Vincent and the Grenadines,VCT
+Caribbean,Trinidad and Tobago,TTO
+Andes,Bolivia,BOL
+Andes,Chile,CHL
+Andes,Colombia,COL
+Andes,Ecuador,ECU
+Andes,Peru,PER
+Trop. S. America,Bolivia,BOL
+Trop. S. America,Brazil,BRA
+Trop. S. America,Colombia,COL
+Trop. S. America,Ecuador,ECU
+Trop. S. America,Guyana,GUY
+Trop. S. America,Paraguay,PRY
+Trop. S. America,Peru,PER
+Trop. S. America,Suriname,SUR
+Trop. S. America,Venezuela,VEN
+Temp. S. America,Argentina,ARG
+Temp. S. America,Chile,CHL
+Temp. S. America,Uruguay,URY
+West Africa,Benin,BEN
+West Africa,Burkina Faso,BFA
+West Africa,Cabo Verde,CPV
+West Africa,Chad,TCD
+West Africa,Cote d'Ivoire,CIV
+West Africa,Gambia,GMB
+West Africa,Ghana,GHA
+West Africa,Guinea,GIN
+West Africa,Guinea-Bissau,GNB
+West Africa,Liberia,LBR
+West Africa,Mali,MLI
+West Africa,Mauritania,MRT
+West Africa,Niger,NER
+West Africa,Nigeria,NGA
+West Africa,Senegal,SEN
+West Africa,Sierra Leone,SLE
+West Africa,Togo,TGO
+Central Africa,Angola,AGO
+Central Africa,Cameroon,CMR
+Central Africa,Central African Republic,CAF
+Central Africa,Congo,COG
+Central Africa,Gabon,GAB
+Central Africa,Sao Tome and Principe,STP
+East Africa,Djibouti,DJI
+East Africa,Ethiopia,ETH
+East Africa,Kenya,KEN
+East Africa,Rwanda,RWA
+East Africa,Somalia,SOM
+East Africa,Sudan (former),SDN
+East Africa,Uganda,UGA
+Southern Africa,Angola,AGO
+Southern Africa,Botswana,BWA
+Southern Africa,Lesotho,LSO
+Southern Africa,Malawi,MWI
+Southern Africa,Mozambique,MOZ
+Southern Africa,Namibia,NAM
+Southern Africa,South Africa,ZAF
+Southern Africa,Swaziland,SWZ
+Southern Africa,United Republic of Tanzania,TZA
+Southern Africa,Zambia,ZMB
+Southern Africa,Zimbabwe,ZWE
+IOI,Madagascar,MDG
+IOI,Mauritius,MUS
+NW Europe,Austria,AUT
+NW Europe,Belgium,BEL
+NW Europe,Denmark,DNK
+NW Europe,Finland,FIN
+NW Europe,France,FRA
+NW Europe,Germany,DEU
+NW Europe,Iceland,ISL
+NW Europe,Ireland,IRL
+NW Europe,Luxembourg,LUX
+NW Europe,Netherlands,NLD
+NW Europe,Norway,NOR
+NW Europe,Sweden,SWE
+NW Europe,Switzerland,CHE
+NW Europe,United Kingdom,GBR
+SW Europe,France,FRA
+SW Europe,Italy,ITA
+SW Europe,Portugal,PRT
+SW Europe,Spain,ESP
+NE Europe,Belarus,BLR
+NE Europe,Czech Republic,CZE
+NE Europe,Estonia,EST
+NE Europe,Hungary,HUN
+NE Europe,Latvia,LVA
+NE Europe,Lithuania,LTU
+NE Europe,Poland,POL
+NE Europe,Republic of Moldova,MDA
+NE Europe,Romania,ROU
+NE Europe,Russian Federation,RUS
+NE Europe,Slovakia,SVK
+NE Europe,Ukraine,UKR
+SE Europe,Albania,ALB
+SE Europe,Armenia,ARM
+SE Europe,Bosnia and Herzegovina,BIH
+SE Europe,Bulgaria,BGR
+SE Europe,Croatia,HRV
+SE Europe,Georgia,GEO
+SE Europe,Greece,GRC
+SE Europe,Montenegro,MNE
+SE Europe,Serbia,SRB
+SE Europe,Slovenia,SVN
+SE Europe,The former Yugoslav Republic of Macedonia,MKD
+SE Europe,Turkey,TUR
+SE Mediterranean,Algeria,DZA
+SE Mediterranean,Cyprus,CYP
+SE Mediterranean,Egypt,EGY
+SE Mediterranean,Israel,ISR
+SE Mediterranean,Jordan,JOR
+SE Mediterranean,Lebanon,LBN
+SE Mediterranean,Libya,LBY
+SE Mediterranean,Malta,MLT
+SE Mediterranean,Morocco,MAR
+SE Mediterranean,Occupied Palestinian Territory,PSE
+SE Mediterranean,Syrian Arab Republic,SYR
+SE Mediterranean,Tunisia,TUN
+SE Mediterranean,Turkey,TUR
+West Asia,Afghanistan,AFG
+West Asia,Iran (Islamic Republic of),IRN
+West Asia,Iraq,IRQ
+West Asia,Israel,ISR
+West Asia,Jordan,JOR
+West Asia,Kuwait,KWT
+West Asia,Lebanon,LBN
+West Asia,Occupied Palestinian Territory,PSE
+West Asia,Pakistan,PAK
+West Asia,Saudi Arabia,SAU
+West Asia,Syrian Arab Republic,SYR
+West Asia,Turkey,TUR
+West Asia,United Arab Emirates,ARE
+West Asia,Yemen,YEM
+Central Asia,Armenia,ARM
+Central Asia,Azerbaijan,AZE
+Central Asia,Georgia,GEO
+Central Asia,Kazakhstan,KAZ
+Central Asia,Kyrgyzstan,KGZ
+Central Asia,Tajikistan,TJK
+Central Asia,Turkmenistan,TKM
+Central Asia,Uzbekistan,UZB
+South Asia,Bangladesh,BGD
+South Asia,India,IND
+South Asia,Maldives,MDV
+South Asia,Nepal,NPL
+South Asia,Sri Lanka,LKA
+East Asia,Hong Kong SAR,HKG
+East Asia,Macao SAR,MAC
+East Asia,China (mainland),CHN
+East Asia,Taiwan,TWN
+East Asia,Democratic People's Republic of Korea,PRK
+East Asia,Japan,JPN
+East Asia,Mongolia,MNG
+East Asia,Republic of Korea,KOR
+Southeast Asia,Brunei Darussalam,BRN
+Southeast Asia,Cambodia,KHM
+Southeast Asia,Indonesia,IDN
+Southeast Asia,Lao People's Democratic Republic,LAO
+Southeast Asia,Malaysia,MYS
+Southeast Asia,Myanmar,MMR
+Southeast Asia,Philippines,PHL
+Southeast Asia,Thailand,THA
+Southeast Asia,Timor-Leste,TLS
+Southeast Asia,Viet Nam,VNM
+Trop. Pacific Region,Fiji,FJI
+Trop. Pacific Region,French Polynesia,PYF
+Trop. Pacific Region,Kiribati,KIR
+Trop. Pacific Region,New Caledonia,NCL
+Trop. Pacific Region,Samoa,WSM
+Trop. Pacific Region,Solomon Islands,SLB
+Trop. Pacific Region,Vanuatu,VUT
+Australia New Zealand,Australia,AUS
+Australia New Zealand,New Zealand,NZL

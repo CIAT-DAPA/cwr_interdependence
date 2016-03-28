@@ -319,7 +319,9 @@ text_to_website <- text_to_website[mtch,]
 
 description <- c(title   = text_to_website$text[1],
                  summary = text_to_website$text[2],
-                 content = text_to_website$text[3])
+                 content = text_to_website$text[3],
+                 origin  = 'Origin',
+                 target  = 'Producer')
 
 # {labels} for JSON file
 crop.labels <- cropList
@@ -371,9 +373,56 @@ text_to_website <- read.transcript(paste(work_dir, "/_interactive/_useful_info/I
 colnames(text_to_website) <- c('field', 'text')
 text_to_website <- text_to_website[30:52,]
 
+text_to_vectorize <- text_to_website$text
+text_to_vectorize <- strsplit(text_to_vectorize, split='</p> <p class=\"text-justify region-text-countries\">', fixed=TRUE)
+text_to_vectorize <- lapply(1:length(text_to_vectorize), function(i)
+{
+  if(length(text_to_vectorize[[i]])==2){
+    text_to_vectorize[[i]][1] <- gsub(pattern=' <p class=\"text-justify region-text-crops\">', replacement='', text_to_vectorize[[i]][1], fixed=TRUE)
+    text_to_vectorize[[i]][2] <- gsub(pattern='</p>', replacement='', text_to_vectorize[[i]][2], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- text_to_vectorize[[i]][2]
+    return(text_to_vectorize[[i]])
+  } else {
+    text_to_vectorize[[i]][1] <- gsub(pattern=' <p class=\"text-justify region-text-countries\">', replacement='', text_to_vectorize[[i]][1], fixed=TRUE)
+    text_to_vectorize[[i]][1] <- gsub(pattern='</p>', replacement='', text_to_vectorize[[i]][1], fixed=TRUE)
+    text_to_vectorize[[i]][2] <- ''
+    text_to_vectorize[[i]] <- text_to_vectorize[[i]][2:1]
+    text_to_vectorize[[i]][3] <- text_to_vectorize[[i]][2]
+    return(text_to_vectorize[[i]])
+  }
+})
+
+countries_iso <- read.csv('C:/Users/haachicanoy/Documents/GitHub/interdependence_circos/_interactive/_useful_info/regions_countries_iso.csv')
+countries_iso$Country <- as.character(countries_iso$Country)
+countries_iso$ISO <- as.character(countries_iso$ISO)
+text_to_vectorize <- lapply(1:length(text_to_vectorize), function(i)
+{
+  if(i==1|i==11|i==23){
+    text_to_vectorize[[i]][3] <- gsub(pattern='Includes ', replacement='', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- gsub(pattern='.', replacement='', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- gsub(pattern=' and ', replacement=', ', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- gsub(pattern=', and ', replacement=', ', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- strsplit(text_to_vectorize[[i]][3], split=', ', fixed=TRUE)
+  } else {
+    text_to_vectorize[[i]][3] <- gsub(pattern='Includes ', replacement='', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- gsub(pattern='.', replacement='', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- gsub(pattern=', and ', replacement=', ', text_to_vectorize[[i]][3], fixed=TRUE)
+    text_to_vectorize[[i]][3] <- strsplit(text_to_vectorize[[i]][3], split=', ', fixed=TRUE)
+  }
+  grep2 <- Vectorize(grep, vectorize.args='pattern')
+  text_to_vectorize[[i]][[3]] <- unique(countries_iso$ISO[unlist(grep2(pattern=text_to_vectorize[[i]][[3]], countries_iso$Country, fixed=TRUE))])
+  
+  if(i==9){text_to_vectorize[[i]][[3]][length(text_to_vectorize[[i]][[3]])+1] <- 'SSD'}
+  
+  return(text_to_vectorize[[i]])
+})
+
 names_description <- lapply(1:nrow(text_to_website), function(i)
 {
-  nm_description <- c(title=as.character(text_to_website$field[[i]]), content=as.character(text_to_website$text[[i]]))
+  nm_description <- list(title=as.character(text_to_website$field[[i]]),
+                         content1=as.character(text_to_vectorize[[i]][[1]]),
+                         content2=as.character(text_to_vectorize[[i]][[2]]),
+                         iso=text_to_vectorize[[i]][[3]]) # as.character(text_to_website$text[[i]])
   return(nm_description)
 })
 names_description <- rep(names_description, each=2)
