@@ -13,3 +13,5 @@ This project contains tools to generate and visualize information about migratio
 * [Team](https://github.com/orgs/CIAT-DAPA/teams/cwr-circos)
 * [CIAT](http://ciat.cgiar.org/)
 * [Crop Wild Relatives](http://www.cwrdiversity.org)
+
+![Home](https://github.com/CIAT-DAPA/cwr_interdependence/blob/master/wiki/web_app_home2.png)
