@@ -1,33 +1,15 @@
 # INTERDEPENDENCE CIRCOS #
 
-This project contains tools to generate and visualizate information of 
+This project contains tools to generate and visualize information about migration food in the world regions
 
 ![Logo](https://github.com/CIAT-DAPA/cwr_interdependence/blob/master/wiki/logo.png)
 
-### What is this repository for? ###
+### How do I get Information? ###
 
-* Quick summary
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* [Wiki](#)
+* [Wiki](https://github.com/CIAT-DAPA/cwr_interdependence/wiki)
 
 ### Who do I talk to? ###
 
 * [Team](https://github.com/orgs/CIAT-DAPA/teams/cwr-circos)
 * [CIAT](http://ciat.cgiar.org/)
 * [Crop Wild Relatives](http://www.cwrdiversity.org)
-
-## Quick summary ##
-
-
-
-## Summary of set up ##
-
-
-## Configuration ##
-
-## Dependencies
