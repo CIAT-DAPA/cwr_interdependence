@@ -9,13 +9,3 @@ This work is associated with the publication:
 Khoury CK, Achicanoy HA, Bjorkman AD, Navarro-Racines C, Guarino L, Flores-Palacios X, Engels JMM, Wiersema JH, Dempewolf H, Sotelo S, Ramírez-Villegas J, Castañeda-Álvarez NP, Fowler C, Jarvis A, Rieseberg LH, and Struik PC (2016). Origins of food crops connect countries worldwide. Proc. R. Soc. B: 20160792. Available online at: http://dx.doi.org/10.1098/rspb.2016.0792
 
 The research is associated with the [Crop Wild Relatives](http://www.cwrdiversity.org) project
-
-### Further Information? ###
-
-* [Wiki](https://github.com/CIAT-DAPA/cwr_interdependence/wiki)
-
-### Who do I talk to? ###
-
-* [Team](https://github.com/orgs/CIAT-DAPA/teams/cwr-circos)
-* [CIAT](http://ciat.cgiar.org/)
-* [Crop Wild Relatives](http://www.cwrdiversity.org)
